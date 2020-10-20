@@ -1,0 +1,5380 @@
+{
+	"status": "success",
+	"data": {
+		"stats": {
+			"total": 10603,
+			"offset": 0,
+			"limit": 50,
+			"order": "desc",
+			"base": "USD",
+			"totalMarkets": 64379,
+			"totalExchanges": 350,
+			"totalMarketCap": 366658219097.37274,
+			"total24hVolume": 28966609627.66278
+		},
+		"base": { "symbol": "USD", "sign": "$" },
+		"coins": [
+			{
+				"id": 1,
+				"uuid": "Qwsogvtv82FCd",
+				"slug": "bitcoin-btc",
+				"symbol": "BTC",
+				"name": "Bitcoin",
+				"description": "<p>Bitcoin (BTC) is the first decentralized digital currency that can be sent through the internet globally, without using an intermediary; such as financial institutions, like a (central) bank or agency. The Bitcoin transactions are controlled by many of its users, instead of a few entities. The processing of these transactions is called ‘mining’; new Bitcoin transactions, known as blocks, are added to the record of past transactions on the blockchain. In return, they get awarded with Bitcoin.</p>\n<h3>The goal of Bitcoin</h3>\n<p>Bitcoin was invented as a new electronic cash system that’s fully peer-to-peer, with no third party as an intermediary. Bitcoin was created because of a few main concerns of the inventor, like manipulation of the money supply, with inflation as result; profitable monopolies and oligopolies in financial services, such as the high fees for international money transfers; and tracking the money used by people.</p>\n<h3>Who built Bitcoin</h3>\n<p>In 2008, Bitcoin was invented by an anonymous person or group named Satoshi Nakamoto. In 2009, Bitcoin was released as open-source software. Nakamoto’s real identity is still unknown, although there are many theories about who it might be. Decentralization is one of Bitcoin’s most important principles, and that’s why this anonymity is perfectly in line.</p>\n<h3>The technology of Bitcoin</h3>\n<p>The Bitcoin blockchain is a database, the so-called ‘ledger’, that consists of Bitcoin transaction records. For new transactions to be added to the ledger, the nodes must agree that the transaction is real and valid. The blockchain is public and contains records of all the transactions taking place.</p>",
+				"color": "#f7931A",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/bOabBYkcX/bitcoin_btc.svg",
+				"websiteUrl": "https://bitcoin.org",
+				"socials": [
+					{
+						"name": "r/bitcoin",
+						"url": "https://www.reddit.com/r/bitcoin/",
+						"type": "reddit"
+					},
+					{
+						"name": "bitcoin/bitcoin",
+						"url": "https://github.com/bitcoin/bitcoin",
+						"type": "github"
+					}
+				],
+				"links": [
+					{
+						"name": "bitcoin.org",
+						"type": "website",
+						"url": "https://bitcoin.org"
+					},
+					{
+						"name": "r/bitcoin",
+						"url": "https://www.reddit.com/r/bitcoin/",
+						"type": "reddit"
+					},
+					{
+						"name": "bitcoin/bitcoin",
+						"url": "https://github.com/bitcoin/bitcoin",
+						"type": "github"
+					},
+					{
+						"name": "blockchain.com",
+						"url": "https://www.blockchain.com/explorer",
+						"type": "explorer"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 19650,
+				"numberOfExchanges": 327,
+				"type": "coin",
+				"volume": 14613926983,
+				"marketCap": 217158383193,
+				"price": "11724.3959897826",
+				"circulatingSupply": 18521925,
+				"totalSupply": 18521925,
+				"approvedSupply": true,
+				"firstSeen": 1330214400000,
+				"listedAt": 1330214400,
+				"change": 2.31,
+				"rank": 1,
+				"history": [
+					"11459.7388544669",
+					"11446.9187002668",
+					"11438.1527044896",
+					"11441.7857864432",
+					"11440.1276471925",
+					"11455.1547837058",
+					"11463.6424475209",
+					"11467.7710585608",
+					"11476.4817813646",
+					"11477.9336732641",
+					"11501.9674494428",
+					"11555.2640844056",
+					"11648.5156365251",
+					"11648.1034790432",
+					"11744.4988241259",
+					"11761.9457552768",
+					"11740.4791136174",
+					"11707.8817418297",
+					"11684.2069652931",
+					"11702.6043130455",
+					"11734.8537905568",
+					"11744.6358501775",
+					"11734.0201150969",
+					"11727.6923902055",
+					"11714.8984681973",
+					"11713.9564174535",
+					"11724.3959897826"
+				],
+				"allTimeHigh": {
+					"price": "19500.47124838819",
+					"timestamp": 1513555200000
+				},
+				"penalty": false
+			},
+			{
+				"id": 2,
+				"uuid": "razxDUgYGNAdQ",
+				"slug": "ethereum-eth",
+				"symbol": "ETH",
+				"name": "Ethereum",
+				"description": "<p>Ethereum (ETH) is a global, public decentralized blockchain designed to run peer-to-peer smart contracts. It allows developers to deploy all sorts of decentralized applications (Dapps), without the interference of third parties. Ethereum is also used for its own cryptocurrency ether. Ethereum is now the world’s second-most valued cryptocurrency platform.</p>\n<h3>The goal of Ethereum</h3>\n<p>Ethereum is created as a blockchain platform on which other applications could be built on top of. Most of the online services, businesses and enterprises are built on a centralized system of governance. Ethereum aims to decentralize the existing client-server model; servers and clouds are replaced by so-called nodes, run by volunteers from all over the world. Ethereum’s vision is that it would enable this same functionality to people anywhere around the world, enabling them to compete to offer services on top of this infrastructure.</p>\n<h3>Who built Ethereum</h3>\n<p>Ethereum was initially described in a white paper by Vitalik Buterin. In 2014, Buterin and the other co-founders launched a campaign where they sold ether (Ethereum tokens) to raise money to build their vision. Since the launch of the white paper in 2015, the platform has grown fast, and these days there are hundreds of developers involved.</p>",
+				"color": "#3C3C3D",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/rk4RKHOuW/eth.svg",
+				"websiteUrl": "https://www.ethereum.org",
+				"socials": [
+					{
+						"name": "ethereum",
+						"url": "https://twitter.com/ethereum",
+						"type": "twitter"
+					},
+					{
+						"name": "ethereum",
+						"url": "https://www.reddit.com/r/ethereum/",
+						"type": "reddit"
+					},
+					{
+						"name": "ethtrader",
+						"url": "https://www.reddit.com/r/ethtrader/",
+						"type": "reddit"
+					},
+					{
+						"name": "BitcoinTalk",
+						"url": "https://bitcointalk.org/index.php?topic=428589.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "YouTube",
+						"url": "https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g",
+						"type": "youtube"
+					},
+					{
+						"name": "ethereumproject",
+						"url": "https://facebook.com/ethereumproject",
+						"type": "facebook"
+					},
+					{
+						"name": "ethereum",
+						"url": "https://github.com/ethereum",
+						"type": "github"
+					}
+				],
+				"links": [
+					{
+						"name": "www.ethereum.org",
+						"type": "website",
+						"url": "https://www.ethereum.org"
+					},
+					{
+						"name": "ethereum",
+						"url": "https://twitter.com/ethereum",
+						"type": "twitter"
+					},
+					{
+						"name": "ethereum",
+						"url": "https://www.reddit.com/r/ethereum/",
+						"type": "reddit"
+					},
+					{
+						"name": "ethtrader",
+						"url": "https://www.reddit.com/r/ethtrader/",
+						"type": "reddit"
+					},
+					{
+						"name": "BitcoinTalk",
+						"url": "https://bitcointalk.org/index.php?topic=428589.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "YouTube",
+						"url": "https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g",
+						"type": "youtube"
+					},
+					{
+						"name": "ethereumproject",
+						"url": "https://facebook.com/ethereumproject",
+						"type": "facebook"
+					},
+					{
+						"name": "ethereum",
+						"url": "https://github.com/ethereum",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 14387,
+				"numberOfExchanges": 317,
+				"type": "coin",
+				"volume": 6677897103,
+				"marketCap": 42643099544,
+				"price": "379.0789813378",
+				"circulatingSupply": 112491332.0015484,
+				"totalSupply": 113078329.6865,
+				"approvedSupply": true,
+				"firstSeen": 1438905600000,
+				"listedAt": 1438905600,
+				"change": 0.84,
+				"rank": 2,
+				"history": [
+					"375.9202235378",
+					"375.2540416153",
+					"375.6493660144",
+					"374.4432876368",
+					"374.5070368888",
+					"375.735559783",
+					"375.7268968068",
+					"375.798914766",
+					"376.0809045449",
+					"376.0311489423",
+					"376.7534297123",
+					"377.8541368469",
+					"380.3242037823",
+					"379.552678025",
+					"382.0347917504",
+					"382.6727670984",
+					"381.7847812639",
+					"380.0812948908",
+					"379.6299849418",
+					"379.4032707415",
+					"379.8164919398",
+					"378.9125415963",
+					"379.3686159692",
+					"378.7932278053",
+					"379.0368652437",
+					"379.1848778518",
+					"379.0789813378"
+				],
+				"allTimeHigh": {
+					"price": "1353.5489580569788",
+					"timestamp": 1515888000000
+				},
+				"penalty": false
+			},
+			{
+				"id": 8,
+				"uuid": "HIVsRcGKkPFtW",
+				"slug": "tetherusd-usdt",
+				"symbol": "USDT",
+				"name": "Tether USD",
+				"description": "<p>Tether (USDT) has pegged its USDT tokens to the price of the US dollar by using blockchain technology. Tether belongs to the category cryptocurrencies called stablecoins that aims to keep cryptocurrency valuations stable, in opposition to other cryptocurrencies, such as Bitcoin and Ethereum.</p>\n<h3>The goal of Tether</h3>\n<p>Tether was designed to build a bridge between cryptocurrencies and fiat currencies, with the benefits of cross-border payments facilitated by blockchain technology. Its purpose is to provide a token that represents a fiat currency at a 1:1 ratio, with in this case US dollar.</p>\n<h3>Who started Tether</h3>\n<p>In July 2014, Tether was first launched as RealCoin. Later it was rebranded as Tether in November 2014 by Tether Ltd., the company that is responsible for maintaining the reserve amounts of fiat currency. It started trading in February 2015. The project was initially founded by Bitcoin Foundation director Brock Pierce, software engineer Craig Sellars, and entrepreneur Reeve Collins.</p>",
+				"color": "#22a079",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/mgHqwlCLj/usdt.svg",
+				"websiteUrl": "https://tether.to/",
+				"socials": [
+					{
+						"name": "tether_to",
+						"url": "https://twitter.com/tether_to",
+						"type": "twitter"
+					},
+					{
+						"name": "r/tether",
+						"url": "https://www.reddit.com/r/tether/",
+						"type": "reddit"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/tether.to",
+						"type": "facebook"
+					}
+				],
+				"links": [
+					{
+						"name": "www.linkedin.com",
+						"url": "https://www.linkedin.com/company/tether",
+						"type": "linkedin"
+					},
+					{
+						"name": "tether.to",
+						"url": "https://tether.to/",
+						"type": "website"
+					},
+					{
+						"name": "tether_to",
+						"url": "https://twitter.com/tether_to",
+						"type": "twitter"
+					},
+					{
+						"name": "r/tether",
+						"url": "https://www.reddit.com/r/tether/",
+						"type": "reddit"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/tether.to",
+						"type": "facebook"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 10244,
+				"numberOfExchanges": 221,
+				"type": "coin",
+				"volume": 18813080516,
+				"marketCap": 15883388749,
+				"price": "1.0012607626",
+				"circulatingSupply": 15863388780.926483,
+				"totalSupply": 16025743013.32,
+				"approvedSupply": true,
+				"firstSeen": 1420761600000,
+				"listedAt": 1420761600,
+				"change": -0.06,
+				"rank": 3,
+				"history": [
+					"1.0018294783",
+					"1.0014629352",
+					"1.0007630086",
+					"1.0019591974",
+					"1.0014795253",
+					"1.0023893808",
+					"1.0021792771",
+					"1.0015997617",
+					"1.0014822098",
+					"1.0016190599",
+					"1.0015725255",
+					"1.0013373123",
+					"1.0016773258",
+					"1.0013008398",
+					"1.0011950128",
+					"1.0015367502",
+					"1.0014561942",
+					"1.0014617515",
+					"1.0017739362",
+					"1.0017861347",
+					"1.0015354551",
+					"1.001349783",
+					"1.0011094227",
+					"1.0012977359",
+					"1.0013273797",
+					"1.0014458279",
+					"1.0012607626"
+				],
+				"allTimeHigh": {
+					"price": "2.00000000065111",
+					"timestamp": 1469145600000
+				},
+				"penalty": false
+			},
+			{
+				"id": 3,
+				"uuid": "-l8Mn2pVlRs-p",
+				"slug": "xrp-xrp",
+				"symbol": "XRP",
+				"name": "XRP",
+				"description": "<p>Ripple is both a digital currency (XRP) and an open payment network within which that currency is transferred. Ripple connects banks from all around the world, to provide immediate cross-border transactions with fewer intermediaries. Ripple aims to provide both parties an end-to-end visibility throughout the transactions. The main purpose of XRP is to make it possible to exchange cryptocurrencies and fiat.</p>\n<h3>The goal of XRP</h3>\n<p>XRP is built on bitcoin’s decentralized digital currency approach. XRP aims to be a payment ecosystem, providing a low commission currency exchange with fast international transactions.</p>\n<h3>Who started XRP</h3>\n<p>XRP was first released in 2012 by a company named OpenCoin, with co-founders CEO Chris Larsen and CTO Jed McCaleb. Both co-founders have a background in bitcoin, as well as the other developers working on the XRP protocol.</p>",
+				"color": "#000000",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/B1oPuTyfX/xrp.svg",
+				"websiteUrl": "https://ripple.com",
+				"socials": [
+					{
+						"name": "ripple",
+						"url": "https://twitter.com/ripple",
+						"type": "twitter"
+					},
+					{
+						"name": "r/ripple",
+						"url": "https://www.reddit.com/r/ripple/",
+						"type": "reddit"
+					},
+					{
+						"name": "ripplevideo1",
+						"url": "https://www.youtube.com/user/ripplevideo1",
+						"type": "youtube"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/ripplepay",
+						"type": "facebook"
+					},
+					{
+						"name": "interledger/five-bells-demo",
+						"url": "https://github.com/interledger/five-bells-demo",
+						"type": "github"
+					}
+				],
+				"links": [
+					{
+						"name": "ripple.com",
+						"type": "website",
+						"url": "https://ripple.com"
+					},
+					{
+						"name": "ripple",
+						"url": "https://twitter.com/ripple",
+						"type": "twitter"
+					},
+					{
+						"name": "r/ripple",
+						"url": "https://www.reddit.com/r/ripple/",
+						"type": "reddit"
+					},
+					{
+						"name": "ripplevideo1",
+						"url": "https://www.youtube.com/user/ripplevideo1",
+						"type": "youtube"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/ripplepay",
+						"type": "facebook"
+					},
+					{
+						"name": "interledger/five-bells-demo",
+						"url": "https://github.com/interledger/five-bells-demo",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 834,
+				"numberOfExchanges": 199,
+				"type": "coin",
+				"volume": 796179009,
+				"marketCap": 10818109756,
+				"price": "0.2453663588",
+				"circulatingSupply": 44089620959,
+				"totalSupply": 99990976125,
+				"approvedSupply": true,
+				"firstSeen": 1421798400000,
+				"listedAt": 1421798400,
+				"change": 1.33,
+				"rank": 4,
+				"history": [
+					"0.2421424931",
+					"0.2418349407",
+					"0.2411301571",
+					"0.2409105719",
+					"0.240710268",
+					"0.241504044",
+					"0.2413528414",
+					"0.2415903696",
+					"0.2450852956",
+					"0.2464611319",
+					"0.2478225948",
+					"0.248045189",
+					"0.2481177364",
+					"0.2472228088",
+					"0.2479384688",
+					"0.2486325928",
+					"0.2481607301",
+					"0.2472838552",
+					"0.2465404267",
+					"0.246530042",
+					"0.2469936526",
+					"0.2469903138",
+					"0.2463526936",
+					"0.245493655",
+					"0.2454085548",
+					"0.245429916",
+					"0.2453663588"
+				],
+				"allTimeHigh": {
+					"price": "3.1592207876597747",
+					"timestamp": 1515369600000
+				},
+				"penalty": false
+			},
+			{
+				"id": 4,
+				"uuid": "ZlZpzOJo43mIo",
+				"slug": "bitcoincash-bch",
+				"symbol": "BCH",
+				"name": "Bitcoin Cash",
+				"description": "<p>Bitcoin Cash (BCH) is a hard fork of bitcoin. It’s an electronic cash platform that allows peer-to-peer online cash payments to be made without the clearance of a clearinghouse. One of the most pressing issues for bitcoin has always been its scalability; the size of a block of transactions was limited to one MB. Bitcoin Cash was initiated to increase this block size.</p>\n<h3>The goal of Bitcoin Cash</h3>\n<p>Bitcoin cash is very similar to bitcoin and also used as a payment system. Bitcoin Cash allows faster transaction times and lower transaction fees; it enabled the increase of the block size from one MB to eight MB. Its overall goal is to increase the number of transactions that can be processed by the network.</p>\n<h3>Who started Bitcoin Cash</h3>\n<p>Bitcoin Cash was officially released in August 2017, as a result of a discussion about the scalability of Bitcoin; the community had some concerns about Bitcoin’s ability to process the large number of transactions on the Bitcoin network. Looking for a solution, the community was divided into two groups. Unable to find a compromise, a hard fork was implemented, and Bitcoin Cash was created.</p>",
+				"color": "#8dc451",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/By8ziihX7/bch.svg",
+				"websiteUrl": "https://www.bitcoincash.org/",
+				"socials": [
+					{
+						"name": "bitcolncash",
+						"url": "https://twitter.com/bitcolncash",
+						"type": "twitter"
+					},
+					{
+						"name": "r/bitcoincash",
+						"url": "https://www.reddit.com/r/bitcoincash/",
+						"type": "reddit"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=2040221.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/bitcoincashorg",
+						"type": "facebook"
+					},
+					{
+						"name": "bitcoin-abc",
+						"url": "https://github.com/Bitcoin-ABC/bitcoin-abc",
+						"type": "github"
+					}
+				],
+				"links": [
+					{
+						"name": "www.bitcoincash.org",
+						"type": "website",
+						"url": "https://www.bitcoincash.org/"
+					},
+					{
+						"name": "bitcolncash",
+						"url": "https://twitter.com/bitcolncash",
+						"type": "twitter"
+					},
+					{
+						"name": "r/bitcoincash",
+						"url": "https://www.reddit.com/r/bitcoincash/",
+						"type": "reddit"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=2040221.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/bitcoincashorg",
+						"type": "facebook"
+					},
+					{
+						"name": "bitcoin-abc",
+						"url": "https://github.com/Bitcoin-ABC/bitcoin-abc",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 906,
+				"numberOfExchanges": 220,
+				"type": "coin",
+				"volume": 1047923213,
+				"marketCap": 4624926682,
+				"price": "249.3331691913",
+				"circulatingSupply": 18549183.39679983,
+				"totalSupply": 18549183.39679983,
+				"approvedSupply": true,
+				"firstSeen": 1541808000000,
+				"listedAt": 1541808000,
+				"change": 0.58,
+				"rank": 5,
+				"history": [
+					"247.8973236207",
+					"246.9578282601",
+					"246.1871632461",
+					"246.5737487612",
+					"246.3703468795",
+					"247.1100025552",
+					"247.2012171397",
+					"247.0607289453",
+					"247.5257126235",
+					"248.2507729157",
+					"248.2790639544",
+					"249.0733711209",
+					"251.0990032438",
+					"249.8487124409",
+					"250.7604027928",
+					"250.9217553252",
+					"251.5447125736",
+					"250.3899251934",
+					"250.0019912782",
+					"250.0681813076",
+					"249.8457142716",
+					"249.1951582255",
+					"249.4965677537",
+					"249.4719238215",
+					"249.2885003995",
+					"249.2655025939",
+					"249.3331691913"
+				],
+				"allTimeHigh": {
+					"price": "508.54130064281685",
+					"timestamp": 1541808000000
+				},
+				"penalty": false
+			},
+			{
+				"id": 59,
+				"uuid": "VLqpJwogdhHNb",
+				"slug": "chainlink-link",
+				"symbol": "LINK",
+				"name": "Chainlink",
+				"description": "<p>Chainlink (LINK) is aiming to become a fully decentralized oracle network. It functions like a bridge between smart contracts and off-chain applications, to grant access to off-chain resources like data feeds, web APIs or retail payments for example. Chainlink is built on the Ethereum blockchain.</p>\n<h3>The goal of Chainlink</h3>\n<p>Chainlink connects smart contracts to external systems and APIs. It functions as a secure blockchain middleware and decentralized oracle network that provides support in connecting smart contracts with critical resources of external data and other external software systems. Chainlink nodes (connection points in a network) offer API's that allow the conclusion of smart contract agreements and streaming of data feeds to and from blockchain networks. The LINK token is used to pay for off-chain resources demanded by a smart contract.</p>\n<h3>Who built Chainlink</h3>\n<p>Chainlink, which is headquartered in the Cayman Islands, was founded in 2014 by Sergey Nazarov and Steve Ellis. The parent company of Chainlink is called SmartContract, a blockchain company.</p>",
+				"color": "#4680b0",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/9NOP9tOem/chainlink.svg",
+				"websiteUrl": "https://chain.link/",
+				"socials": [],
+				"links": [
+					{
+						"name": "blog.chain.link",
+						"url": "https://blog.chain.link/chainlink-chinese-communities/",
+						"type": "wechat"
+					},
+					{
+						"name": "chain.link",
+						"url": "https://chain.link/",
+						"type": "website"
+					},
+					{
+						"name": "smart_contract",
+						"url": "https://twitter.com/smart_contract",
+						"type": "twitter"
+					},
+					{
+						"name": "chainlinkofficial",
+						"url": "https://t.me/chainlinkofficial",
+						"type": "telegram"
+					},
+					{
+						"name": "r/chainlink",
+						"url": "https://www.reddit.com/r/chainlink/",
+						"type": "reddit"
+					},
+					{
+						"name": "discord.com",
+						"url": "https://discord.com/invite/aSK4zew",
+						"type": "discord"
+					},
+					{
+						"name": "www.youtube.com",
+						"url": "https://www.youtube.com/chainlinkofficial",
+						"type": "youtube"
+					},
+					{
+						"name": "smartcontractkit/chainlink",
+						"url": "https://github.com/smartcontractkit/chainlink",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 348,
+				"numberOfExchanges": 133,
+				"type": "coin",
+				"volume": 539792897,
+				"marketCap": 4226030818,
+				"price": "10.8775467893",
+				"circulatingSupply": 388509550.91374743,
+				"totalSupply": 1000000000,
+				"approvedSupply": true,
+				"firstSeen": 1505952000000,
+				"listedAt": 1505952000,
+				"change": 1.2,
+				"rank": 6,
+				"history": [
+					"10.7487047859",
+					"10.7231954848",
+					"10.692739951",
+					"10.7074481163",
+					"10.6981192566",
+					"10.7498320441",
+					"10.7555715713",
+					"10.7803186173",
+					"10.8021349628",
+					"10.7795781224",
+					"10.7526845666",
+					"10.7982550136",
+					"10.8696055985",
+					"10.856184839",
+					"11.0152371123",
+					"11.0968175897",
+					"11.0555481678",
+					"11.0067808953",
+					"10.9733139933",
+					"10.9597767836",
+					"10.9724307662",
+					"10.9232321833",
+					"10.9055779342",
+					"10.8554705872",
+					"10.853833712",
+					"10.8743676897",
+					"10.8775467893"
+				],
+				"allTimeHigh": {
+					"price": "19.18524039142146",
+					"timestamp": 1597536000000
+				},
+				"penalty": false
+			},
+			{
+				"id": 14,
+				"uuid": "WcwrkfNI4FUAe",
+				"slug": "binancecoin-bnb",
+				"symbol": "BNB",
+				"name": "Binance Coin",
+				"description": "<p>Binance Coin (BNB) is used for trading on the Binance exchange. When using Binance Coin you will receive a discount on the fees you need to pay. Binance aims to create a Decentralized Exchange (DEX) where Binance coin will function as the underlying token. Binance Coin is built on the Ethereum blockchain.</p>\n<h3>The goal of Binance Coin</h3>\n<p>Binance Coin was initially created as a utility token that allows users to pay for trading fees at a discounted rate on the Binance exchange. This trading fee discount offered by the token during Binance’s first year, was the first of many use cases of Binance Coin that has grown Binance’s global ecosystem. Since the start, Binance Coin has increasingly developed its functions and use cases. It became one of the most widely-used utility tokens in the blockchain space. Binance Coin can also be used to pay for travel costs, like flight and hotel bookings, buying virtual gifts, and using a credit card.</p>\n<h3>Who started Binance Coin</h3>\n<p>In 2017, Binance Coin was launched by Binance. It was first issued and launched during an Initial Coin Offering (ICO) crowdfunding event. Changpeng Zhao, who goes by CZ, is the founder and CEO of Binance. Binance is headquartered in Tokyo, Japan.</p>",
+				"color": "#e8b342",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/B1N19L_dZ/bnb.svg",
+				"websiteUrl": "https://www.binance.com/?ref=35424440",
+				"socials": [],
+				"links": [
+					{
+						"name": "www.binance.com",
+						"type": "website",
+						"url": "https://www.binance.com/?ref=35424440"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 594,
+				"numberOfExchanges": 101,
+				"type": "coin",
+				"volume": 459077013,
+				"marketCap": 3777419984,
+				"price": "30.0529632782",
+				"circulatingSupply": 125692097.27527854,
+				"totalSupply": 140345602,
+				"approvedSupply": true,
+				"firstSeen": 1503014400000,
+				"listedAt": 1503014400,
+				"change": -0.77,
+				"rank": 7,
+				"history": [
+					"30.2854194541",
+					"30.0804149443",
+					"30.0183519853",
+					"30.081793682",
+					"29.9475364116",
+					"30.0547647358",
+					"30.0794458977",
+					"30.0840100255",
+					"30.113618609",
+					"30.1530440297",
+					"30.2023184812",
+					"30.2989079363",
+					"30.3461883311",
+					"30.2867672974",
+					"30.2830146594",
+					"30.2206061963",
+					"30.1805560901",
+					"30.1271471293",
+					"30.0618348247",
+					"30.05050817",
+					"30.0268445026",
+					"29.9294085389",
+					"29.917483469",
+					"29.8868281516",
+					"29.9049684724",
+					"29.9990223534",
+					"30.0529632782"
+				],
+				"allTimeHigh": {
+					"price": "37.77723478000876",
+					"timestamp": 1561161600000
+				},
+				"penalty": false
+			},
+			{
+				"id": 71983,
+				"uuid": "25W7FG7om",
+				"slug": "polkadot-dot",
+				"symbol": "DOT***",
+				"name": "Polkadot",
+				"description": "<p>Polkadot (DOT) is built to connect private and association chains, public and permissionless networks, oracles, and future technologies that are yet to be created. Polkadot aims to provide an internet where independent blockchains can swap information and transactions in a reliable way via the Polkadot relay chain.</p>\n<h3>The goal of Polkadot</h3>\n<p>Polkadot is created to enable a completely decentralized web where users are in control. Polkadot has to make it easier to create and connect decentralized applications, services, and institutions. By empowering innovators to build better solutions, the creators seek to free society from its reliance on a broken web where its large institutions can’t violate its users' trust.</p>\n<h3>Who built Polkadot</h3>\n<p>Polkadot is a project by Web3 Foundation, a Swiss Foundation founded to facilitate a fully functional and user-friendly decentralized web. The Web3 Foundation is partnering with entities to build Polkadot and support development.</p>\n<h3>The technology of Polkadot</h3>\n<p>Polkadot allows arbitrary data to be transferred across blockchains; Polkadot can transfer this data across public, open, permissionless blockchains as well as private, permissioned blockchains.This enables developers to build applications that get authorized data from a private blockchain and use it on a public blockchain.</p>",
+				"color": "#d64cA8",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/RsljYqnbu/polkadot.svg",
+				"websiteUrl": null,
+				"socials": [],
+				"links": [
+					{
+						"name": "polkadot.network",
+						"url": "https://polkadot.network/",
+						"type": "website"
+					},
+					{
+						"name": "polkadot.network/blog",
+						"url": "https://polkadot.network/blog",
+						"type": "website"
+					},
+					{
+						"name": "polkadotnetwork",
+						"url": "https://twitter.com/polkadotnetwork",
+						"type": "twitter"
+					},
+					{
+						"name": "polkadotofficial",
+						"url": "https://t.me/polkadotofficial",
+						"type": "telegram"
+					},
+					{
+						"name": "r/dot",
+						"url": "https://www.reddit.com/r/dot",
+						"type": "reddit"
+					},
+					{
+						"name": "Medium",
+						"url": "https://medium.com/polkadot-network",
+						"type": "medium"
+					},
+					{
+						"name": "YouTube",
+						"url": "https://www.youtube.com/channel/UCB7PbjuZLEba_znc7mEGNgw",
+						"type": "youtube"
+					},
+					{
+						"name": "polkadot",
+						"url": "https://github.com/paritytech/polkadot",
+						"type": "github"
+					},
+					{
+						"name": "polkadot.subscan.io",
+						"url": "https://polkadot.subscan.io/",
+						"type": "explorer"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 83,
+				"numberOfExchanges": 50,
+				"type": "coin",
+				"volume": 196182193,
+				"marketCap": 3603049840,
+				"price": "3.9855761391",
+				"circulatingSupply": 904022333,
+				"totalSupply": 984971466,
+				"approvedSupply": true,
+				"firstSeen": 1598365200000,
+				"listedAt": 1598365200,
+				"change": -1.63,
+				"rank": 8,
+				"history": [
+					"4.0515950838",
+					"4.0414733897",
+					"4.0404155032",
+					"4.0420069559",
+					"4.0368416901",
+					"4.0559242128",
+					"4.0508591655",
+					"4.0329983423",
+					"4.0421141216",
+					"4.0349516397",
+					"4.032855998",
+					"4.0349774469",
+					"4.0553819208",
+					"4.0444215592",
+					"4.0478795401",
+					"4.0648580586",
+					"4.0521588329",
+					"4.033836978",
+					"4.0276489262",
+					"4.027566174",
+					"4.0247163856",
+					"4.0198727193",
+					"3.9836656067",
+					"3.9697166266",
+					"3.9748857292",
+					"3.9745536292",
+					"3.9855761391"
+				],
+				"allTimeHigh": {
+					"price": "6.435886703375472",
+					"timestamp": 1598918400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 9,
+				"uuid": "qzawljRxB5bYu",
+				"slug": "cardano-ada",
+				"symbol": "ADA",
+				"name": "Cardano",
+				"description": "<p>Cardano (ADA) is a decentralised public blockchain and cryptocurrency project and is fully open source. Cardano is built in the secure Haskell programming language. Cardano is developing a smart contract platform which seeks to deliver lots of advanced features. It claims to be the first blockchain platform to evolve out of a scientific philosophy and a research-first driven approach.</p>\n<h3>The goal of Cardano</h3>\n<p>In 2015, the Cardano project began as an effort to change the way cryptocurrencies are designed and developed. The overall focus beyond a particular set of innovations is to provide a more balanced and sustainable ecosystem that better accounts for the needs of its users as well as other systems seeking integration. Cardano did not begin with a comprehensive roadmap or even an authoritative white paper. It started with a collection of design principles, engineering best practices and avenues for exploration. The Cardano platform now features decentralized applications and contracts that operate at low cost in a secure and scalable way.</p>\n<h3>Who started Cardano</h3>\n<p>Cardano was launched in 2017, and founded by Charles Hoskinson, co-founder of Ethereum. Charles said he wanted to provide a more balanced and sustainable ecosystem for cryptocurrencies. The development team consists of a large global collective of expert engineers and researchers.</p>",
+				"color": "#3cc8c8",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/ryY28nXhW/ada.svg",
+				"websiteUrl": "https://www.cardano.org/en/home/",
+				"socials": [
+					{
+						"name": "cardano",
+						"url": "https://twitter.com/cardano",
+						"type": "twitter"
+					},
+					{
+						"name": "r/cardano",
+						"url": "https://www.reddit.com/r/cardano/",
+						"type": "reddit"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/ucbq9vgfezru1yri1zdcttgg",
+						"type": "youtube"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/groups/cardanocommunity",
+						"type": "facebook"
+					},
+					{
+						"name": "input-output-hk/cardano-sl",
+						"url": "https://github.com/input-output-hk/cardano-sl",
+						"type": "github"
+					}
+				],
+				"links": [
+					{
+						"name": "www.cardano.org",
+						"type": "website",
+						"url": "https://www.cardano.org/en/home/"
+					},
+					{
+						"name": "cardano",
+						"url": "https://twitter.com/cardano",
+						"type": "twitter"
+					},
+					{
+						"name": "r/cardano",
+						"url": "https://www.reddit.com/r/cardano/",
+						"type": "reddit"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/ucbq9vgfezru1yri1zdcttgg",
+						"type": "youtube"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/groups/cardanocommunity",
+						"type": "facebook"
+					},
+					{
+						"name": "input-output-hk/cardano-sl",
+						"url": "https://github.com/input-output-hk/cardano-sl",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 192,
+				"numberOfExchanges": 77,
+				"type": "coin",
+				"volume": 196215028,
+				"marketCap": 3377943823,
+				"price": "0.108571972",
+				"circulatingSupply": 31112484745,
+				"totalSupply": 31112484745,
+				"approvedSupply": true,
+				"firstSeen": 1506902400000,
+				"listedAt": 1506902400,
+				"change": 1.6,
+				"rank": 9,
+				"history": [
+					"0.1068593276",
+					"0.1065077984",
+					"0.1063349174",
+					"0.106400319",
+					"0.1063060779",
+					"0.1065622043",
+					"0.1067038505",
+					"0.1065033837",
+					"0.1069909077",
+					"0.1080621055",
+					"0.1080723655",
+					"0.1084268593",
+					"0.1089709877",
+					"0.1086159864",
+					"0.1090340473",
+					"0.1102070212",
+					"0.1103758828",
+					"0.1100614126",
+					"0.1097570477",
+					"0.1102176688",
+					"0.1100670056",
+					"0.1095832222",
+					"0.1089874288",
+					"0.1085568844",
+					"0.1084709155",
+					"0.1084309429",
+					"0.108571972"
+				],
+				"allTimeHigh": {
+					"price": "1.1958838420370697",
+					"timestamp": 1515110400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 7,
+				"uuid": "D7B1x_ks7WhV5",
+				"slug": "litecoin-ltc",
+				"symbol": "LTC",
+				"name": "Litecoin",
+				"description": "<p>Litecoin is a peer-to-peer decentralized digital currency with an instant, near zero-cost payment service to peers across the world. It features a faster transaction confirmation status, along with a refined storage competency. The average block mining speed in Litecoin is 2.5 minutes, compared to bitcoin’s 10 minutes.</p>\n<h3>The goal of Litecoin</h3>\n<p>Litecoin wants to provide a more decentralized mining network, faster transaction processing times, lower transaction fees and less scarcity. The price of each litecoin is cheaper than bitcoin, and transactions are easier, because there are more Litecoins that can be created by mining. Litecoin is often referred to ‘silver’, whilst Bitcoin is compared with ‘gold.’</p>\n<h3>Who started Litecoin</h3>\n<p>In October 2011, litecoin was released via an open-source client on GitHub. (A client is a piece of software that accesses a service made available by a server.) It is basically a fork of the Bitcoin Core client. Charlie Lee is the managing director of the Litecoin Foundation. He’s an ex-Google employee who had the vision to create a lighter version of Bitcoin.</p>",
+				"color": "#345d9d",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/BUvPxmc9o/ltcnew.svg",
+				"websiteUrl": "https://litecoin.org",
+				"socials": [
+					{
+						"name": "litecoinproject",
+						"url": "https://twitter.com/litecoinproject",
+						"type": "twitter"
+					},
+					{
+						"name": "Telegram",
+						"url": "https://web.telegram.org/#/im?p=@litecoin",
+						"type": "telegram"
+					},
+					{
+						"name": "r/litecoin",
+						"url": "https://www.reddit.com/r/litecoin/",
+						"type": "reddit"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=47417.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/uc8unj4yczgc5e7sb_cckdgg",
+						"type": "youtube"
+					},
+					{
+						"name": "ltcfoundation",
+						"url": "http://www.instagram.com/ltcfoundation",
+						"type": "instagram"
+					}
+				],
+				"links": [
+					{
+						"name": "litecoin.org",
+						"type": "website",
+						"url": "https://litecoin.org"
+					},
+					{
+						"name": "litecoinproject",
+						"url": "https://twitter.com/litecoinproject",
+						"type": "twitter"
+					},
+					{
+						"name": "Telegram",
+						"url": "https://web.telegram.org/#/im?p=@litecoin",
+						"type": "telegram"
+					},
+					{
+						"name": "r/litecoin",
+						"url": "https://www.reddit.com/r/litecoin/",
+						"type": "reddit"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=47417.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/uc8unj4yczgc5e7sb_cckdgg",
+						"type": "youtube"
+					},
+					{
+						"name": "ltcfoundation",
+						"url": "http://www.instagram.com/ltcfoundation",
+						"type": "instagram"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 2915,
+				"numberOfExchanges": 270,
+				"type": "coin",
+				"volume": 697966007,
+				"marketCap": 3157911218,
+				"price": "48.0626732267",
+				"circulatingSupply": 65704027.79447592,
+				"totalSupply": 65704027.79447592,
+				"approvedSupply": true,
+				"firstSeen": 1382572800000,
+				"listedAt": 1382572800,
+				"change": 1.66,
+				"rank": 10,
+				"history": [
+					"47.2763688194",
+					"47.1420215918",
+					"47.1010495628",
+					"47.1209283549",
+					"47.10940108",
+					"47.232386358",
+					"47.2252548128",
+					"47.293625737",
+					"47.3456485201",
+					"47.360864657",
+					"47.4216023921",
+					"47.7043086735",
+					"47.9968417272",
+					"47.9918828229",
+					"48.2907735709",
+					"48.3798282061",
+					"48.3058695434",
+					"48.1737826076",
+					"48.1042986596",
+					"48.0704509695",
+					"48.1522328259",
+					"48.1705314944",
+					"48.0734756237",
+					"47.9793064468",
+					"48.0335116542",
+					"48.1021054783",
+					"48.0626732267"
+				],
+				"allTimeHigh": {
+					"price": "356.5915738792805",
+					"timestamp": 1513728000000
+				},
+				"penalty": false
+			},
+			{
+				"id": 5858,
+				"uuid": "Mtfb0obXVh59u",
+				"slug": "wrappedether-weth",
+				"symbol": "WETH",
+				"name": "Wrapped Ether",
+				"description": "WETH (Wrapped Ethereum) is a token that represents an ERC-20 version of ETH on the Ethereum blockchain. Every WETH is 1:1 backed by real ETH.",
+				"color": "#303030",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/KIviQyZlt/weth.svg",
+				"websiteUrl": null,
+				"socials": [],
+				"links": [],
+				"confirmedSupply": true,
+				"numberOfMarkets": 312,
+				"numberOfExchanges": 6,
+				"type": "coin",
+				"volume": 105526811,
+				"marketCap": 3021018606,
+				"price": "383.9523183168",
+				"circulatingSupply": 7868212.956977732,
+				"totalSupply": 7868212.979526636,
+				"approvedSupply": true,
+				"firstSeen": 1515974400000,
+				"listedAt": 1600259445,
+				"change": 3.33,
+				"rank": 11,
+				"history": [
+					"371.585241948",
+					"371.6652498485",
+					"371.4057322728",
+					"371.2835844505",
+					"371.8341978609",
+					"373.2449940521",
+					"373.2219279934",
+					"372.8380789252",
+					"373.4305014595",
+					"373.6663655046",
+					"374.2634687138",
+					"375.6060624851",
+					"378.4727204477",
+					"377.9989460314",
+					"379.6238221558",
+					"381.4987504522",
+					"381.30857817",
+					"380.5491208663",
+					"379.7048306804",
+					"380.0601012397",
+					"380.542111983",
+					"380.8545532806",
+					"382.3755775408",
+					"382.8006270195",
+					"383.4938437875",
+					"383.7202533054",
+					"383.9523183168"
+				],
+				"allTimeHigh": {
+					"price": "1326.7587556498438",
+					"timestamp": 1516060800000
+				},
+				"penalty": false
+			},
+			{
+				"id": 4875,
+				"uuid": "VcMY11NONHSA0",
+				"slug": "bitcoinsv-bsv",
+				"symbol": "BSV",
+				"name": "Bitcoin SV",
+				"description": "<p>Bitcoin Satoshi Vision (BSV), or short said Bitcoin SV, is a fork from Bitcoin Cash. This project is called Satoshi Vision or SV, because it aims to restore the Bitcoin protocol, by creating a stable, scalable, and secure payment method.</p>\n<h3>The goal of Bitcoin SV</h3>\n<p>The Bitcoin SV team beliefs the changes made to Bitcoin in its early days, competed with Satoshi Nakamoto’s vision; they think Bitcoin must be restored to its original form, as described in the Bitcoin whitepaper. Bitcoin SV aims to provide a good choice for miners and allow projects to build websites and applications on it.</p>\n<h3>Who started Bitcoin SV</h3>\n<p>Bitcoin SV supporters first followed the Bitcoin Cash fork in 2017, because they thought it would be in line with Satoshi Nakamoto's original vision. Later they found this fork wasn’t actually in line with this vision. Now there were two teams; Bitcoin ABC, the core team of Bitcoin Cash, and team nChain. Team nChain started Bitcoin SV, led by Craig Wright, who later claimed several times he is actually Satoshi Nakamoto.</p>",
+				"color": "#eab300",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/388ehh6kq/bitcoin-sv-1.svg",
+				"websiteUrl": "https://bitcoinsv.io/",
+				"socials": [
+					{
+						"name": "bitcoinsvnode",
+						"url": "https://twitter.com/bitcoinsvnode",
+						"type": "twitter"
+					},
+					{
+						"name": "bitcoin-sv/bitcoin-sv",
+						"url": "https://github.com/bitcoin-sv/bitcoin-sv",
+						"type": "github"
+					}
+				],
+				"links": [
+					{
+						"name": "bitcoinsv.io",
+						"type": "website",
+						"url": "https://bitcoinsv.io/"
+					},
+					{
+						"name": "bitcoinsvnode",
+						"url": "https://twitter.com/bitcoinsvnode",
+						"type": "twitter"
+					},
+					{
+						"name": "bitcoin-sv/bitcoin-sv",
+						"url": "https://github.com/bitcoin-sv/bitcoin-sv",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 314,
+				"numberOfExchanges": 110,
+				"type": "coin",
+				"volume": 507799380,
+				"marketCap": 2965351998,
+				"price": "159.8766822981",
+				"circulatingSupply": 18547745.39442325,
+				"totalSupply": 18547745.39442325,
+				"approvedSupply": true,
+				"firstSeen": 1541808000000,
+				"listedAt": 1541808000,
+				"change": 0.34,
+				"rank": 12,
+				"history": [
+					"159.3280465587",
+					"159.0372583611",
+					"158.7611293004",
+					"158.9289924113",
+					"158.8373067541",
+					"159.1415063869",
+					"159.0423443132",
+					"158.734757253",
+					"158.8447829767",
+					"158.8988714966",
+					"159.0214524223",
+					"159.4057842837",
+					"160.0690890894",
+					"160.0669532275",
+					"160.3906568724",
+					"160.1670392935",
+					"159.992353446",
+					"159.4800655612",
+					"159.2222913236",
+					"159.4319814881",
+					"159.7064976557",
+					"160.2790050601",
+					"159.6493956102",
+					"159.7343276294",
+					"160.0849858094",
+					"160.1078100593",
+					"159.8766822981"
+				],
+				"allTimeHigh": {
+					"price": "371.24602840278504",
+					"timestamp": 1581465600000
+				},
+				"penalty": false
+			},
+			{
+				"id": 1760,
+				"uuid": "aKzUVe4Hh_CON",
+				"slug": "usdc-usdc",
+				"symbol": "USDC",
+				"name": "USDC",
+				"description": "<p>USDC (USDC) provides a fully collateralized US dollar stable coin, and is based on the open-source asset-backed stable coin framework developed by CENTRE. The project is the result of a collaboration between Circle and Coinbase.</p>\n<h3>The goal of USDC</h3>\n<p>According to the project, a price-stable currency such as the US dollar (and similar stable currencies such as EUR, GBP, JPY, RMB, etc.) is critical for enabling mainstream adoption of blockchain technology for payments. And also to support maturation in financial contracts built on smart contract platforms, such as tokenized securities, loans, and property.</p>\n<h3>USDC technology</h3>\n<p>Users who onboard through a USDC issuer can transfer funds into the system; the issuer then executes a series of commands with the CENTRE network to verify, mint, and approve USDC tokens, and the user can transfer those tokens elsewhere as they see fit (subject to the token’s compliance controls).</p>",
+				"color": null,
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/jkDf8sQbY/usdc.svg",
+				"websiteUrl": "https://www.centre.io/usdc",
+				"socials": [
+					{
+						"name": "centre_io",
+						"url": "https://twitter.com/centre_io",
+						"type": "twitter"
+					},
+					{
+						"name": "centre-blog",
+						"url": "https://medium.com/centre-blog",
+						"type": "medium"
+					},
+					{
+						"name": "centrehq/centre-tokens",
+						"url": "https://github.com/centrehq/centre-tokens",
+						"type": "github"
+					}
+				],
+				"links": [
+					{
+						"name": "www.centre.io",
+						"type": "website",
+						"url": "https://www.centre.io/usdc"
+					},
+					{
+						"name": "centre_io",
+						"url": "https://twitter.com/centre_io",
+						"type": "twitter"
+					},
+					{
+						"name": "centre-blog",
+						"url": "https://medium.com/centre-blog",
+						"type": "medium"
+					},
+					{
+						"name": "centrehq/centre-tokens",
+						"url": "https://github.com/centrehq/centre-tokens",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 733,
+				"numberOfExchanges": 113,
+				"type": "coin",
+				"volume": 474249380,
+				"marketCap": 2742652197,
+				"price": "1.0001928237",
+				"circulatingSupply": 2742123450.5335646,
+				"totalSupply": 2742129451.776736,
+				"approvedSupply": true,
+				"firstSeen": 1539043200000,
+				"listedAt": 1539043200,
+				"change": -0.01,
+				"rank": 13,
+				"history": [
+					"1.0003131042",
+					"1.0002148783",
+					"1.000335418",
+					"1.0003792695",
+					"1.0004252074",
+					"1.0008238495",
+					"1.0007327339",
+					"1.0003737346",
+					"1.0002441282",
+					"1.0004820054",
+					"1.0002924815",
+					"1.0000662455",
+					"1.0002213274",
+					"1.0000896342",
+					"1.0001091402",
+					"0.999988454",
+					"1.0000003466",
+					"0.9998643242",
+					"1.000161882",
+					"1.0001252408",
+					"0.9999271265",
+					"0.9996408587",
+					"0.9997115046",
+					"0.9998188308",
+					"0.9999849847",
+					"1.0002306157",
+					"1.0001928237"
+				],
+				"allTimeHigh": {
+					"price": "1.0915990536815214",
+					"timestamp": 1597622400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 5,
+				"uuid": "iAzbfXiBBKkR6",
+				"slug": "eos-eos",
+				"symbol": "EOS",
+				"name": "EOS",
+				"description": "<p>EOS is an operating system on the blockchain that runs decentralized applications for businesses. The main focus of the platform is the performance and scalability of smart contracts and transaction throughput. EOS is built to be horizontally scalable so that in the future it can handle thousands of business apps.</p>\n<h3>The goal of EOS</h3>\n<p>EOS is created to fix problems found in blockchain-based systems. EOS focusses on speed, flexibility, and scalability. EOS will also allow smart contracts to be built on top of it, which will allow developers to release decentralized apps (Dapps). EOS purpose is to build a platform that functions like an operating system.</p>\n<h3>Who started EOS</h3>\n<p>EOS was developed by the private company called Block.One, which is also involved in lots of other blockchain and business projects. Its white paper was published in 2017. Dan Larimer, the co-founder, and the EOS-developers’ crew launched the project that aimed to create a platform to perform much faster transactions with fewer fees.</p>",
+				"color": "#443f54",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/PqOYrWSje/eos2.svg",
+				"websiteUrl": "https://eos.io/",
+				"socials": [
+					{
+						"name": "block_one_",
+						"url": "https://twitter.com/block_one_",
+						"type": "twitter"
+					},
+					{
+						"name": "r/eos",
+						"url": "https://www.reddit.com/r/eos/",
+						"type": "reddit"
+					},
+					{
+						"name": "Discord",
+						"url": "https://discordapp.com/invite/zbabdrm",
+						"type": "discord"
+					},
+					{
+						"name": "eosio",
+						"url": "https://medium.com/eosio",
+						"type": "medium"
+					},
+					{
+						"name": "BitcoinTalk",
+						"url": "https://bitcointalk.org/index.php?topic=1904415.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/eosblockchain",
+						"type": "facebook"
+					},
+					{
+						"name": "eosio",
+						"url": "http://github.com/eosio",
+						"type": "github"
+					}
+				],
+				"links": [
+					{ "name": "eos.io", "type": "website", "url": "https://eos.io/" },
+					{
+						"name": "Staking guide",
+						"url": "https://www.stakingrewards.com/asset/eos",
+						"type": "website"
+					},
+					{
+						"name": "block_one_",
+						"url": "https://twitter.com/block_one_",
+						"type": "twitter"
+					},
+					{
+						"name": "r/eos",
+						"url": "https://www.reddit.com/r/eos/",
+						"type": "reddit"
+					},
+					{
+						"name": "Discord",
+						"url": "https://discordapp.com/invite/zbabdrm",
+						"type": "discord"
+					},
+					{
+						"name": "eosio",
+						"url": "https://medium.com/eosio",
+						"type": "medium"
+					},
+					{
+						"name": "BitcoinTalk",
+						"url": "https://bitcointalk.org/index.php?topic=1904415.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/eosblockchain",
+						"type": "facebook"
+					},
+					{
+						"name": "eosio",
+						"url": "http://github.com/eosio",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 631,
+				"numberOfExchanges": 149,
+				"type": "coin",
+				"volume": 702221132,
+				"marketCap": 2387624991,
+				"price": "2.5748213784",
+				"circulatingSupply": 927297330.6374002,
+				"totalSupply": 1023744114.4511,
+				"approvedSupply": true,
+				"firstSeen": 1498694400000,
+				"listedAt": 1498694400,
+				"change": 1.58,
+				"rank": 14,
+				"history": [
+					"2.5347038776",
+					"2.5314568545",
+					"2.5331910104",
+					"2.5329451587",
+					"2.5322010349",
+					"2.5415787452",
+					"2.5417941039",
+					"2.5432031619",
+					"2.5463534101",
+					"2.5459161705",
+					"2.5445677838",
+					"2.5501959059",
+					"2.562830671",
+					"2.5611708852",
+					"2.5709039134",
+					"2.5887141043",
+					"2.5965225453",
+					"2.5925527913",
+					"2.5865491833",
+					"2.5845188635",
+					"2.5837096001",
+					"2.5812070891",
+					"2.5794309654",
+					"2.5786614078",
+					"2.5773725857",
+					"2.5764530116",
+					"2.5748213784"
+				],
+				"allTimeHigh": {
+					"price": "20.618763559581794",
+					"timestamp": 1525046400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 10296,
+				"uuid": "65PHZTpmE55b",
+				"slug": "cryptocomchain-cro",
+				"symbol": "CRO",
+				"name": "Crypto.com Chain",
+				"description": null,
+				"color": "#01275d",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/2o91jm73M/cro.svg",
+				"websiteUrl": "https://crypto.com",
+				"socials": [],
+				"links": [
+					{
+						"name": "crypto.com",
+						"type": "website",
+						"url": "https://crypto.com"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 124,
+				"numberOfExchanges": 46,
+				"type": "coin",
+				"volume": 74767872,
+				"marketCap": 2282298328,
+				"price": "0.1098030171",
+				"circulatingSupply": 20785388126.85388,
+				"totalSupply": 100000000000,
+				"approvedSupply": true,
+				"firstSeen": 1548953220000,
+				"listedAt": 1548953220,
+				"change": -7.88,
+				"rank": 15,
+				"history": [
+					"0.1191950721",
+					"0.1191849248",
+					"0.1193063348",
+					"0.1190212352",
+					"0.1181882976",
+					"0.1180085892",
+					"0.1119935858",
+					"0.1077740499",
+					"0.1075589285",
+					"0.1086856735",
+					"0.1094199151",
+					"0.1099501342",
+					"0.110724749",
+					"0.1106114227",
+					"0.1114456714",
+					"0.1113939872",
+					"0.1103031124",
+					"0.1099131469",
+					"0.1095470353",
+					"0.1098092264",
+					"0.1101675492",
+					"0.1101438772",
+					"0.1098220635",
+					"0.109642213",
+					"0.1094465217",
+					"0.1096463289",
+					"0.1098030171"
+				],
+				"allTimeHigh": {
+					"price": "0.18109891356945151",
+					"timestamp": 1598918400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 10,
+				"uuid": "3mVx2FX_iJFp5",
+				"slug": "monero-xmr",
+				"symbol": "XMR",
+				"name": "Monero",
+				"description": "<p>Monero (XMR) is a cryptocurrency which focuses on being untraceable and private. It differs from Bitcoin's in a few key ways, but is very similar to Bitcoin: it’s an anonymous version of Bitcoin. It can be used to buy and sell things, and be exchanged for other coins or tokens.</p>\n<h3>The goal of Monero</h3>\n<p>The privacy features of Monero gives it its most value. No one can link Monero cryptocurrency transactions to a person. Monero is also created for its fungibility, all Monero coins are identical and mutually interchangeable. Monero has dynamic scalability, which means it has no “pre-set” block size limit. Monero has ASIC resistance and multiple keys.</p>\n<h3>Who started Monero</h3>\n<p>Bytecoin, launched in 2012, was the precursor of Monero. It was the first digital currency that was written using a technology called CryptoNote. CryptoNote is the spine of most of the privacy-based cryptocurrencies that exist, including Monero. However, there were a few issues with Bytecoin, which lead to a group of seven developers to fork the Bytecoin blockchain. The new currency would be known as Bitmonero, later named Monero. Five of the seven developers decided to stay anonymous. Only two of these Monero developers are known: Riccardo Spagni and David Latapie.</p>",
+				"color": "#ff7519",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/Syz-oSd_Z/xmr.svg",
+				"websiteUrl": "https://getmonero.org/",
+				"socials": [
+					{
+						"name": "monerocurrency",
+						"url": "https://twitter.com/monerocurrency",
+						"type": "twitter"
+					},
+					{
+						"name": "bitmonero",
+						"url": "https://telegram.me/bitmonero",
+						"type": "telegram"
+					},
+					{
+						"name": "r/monero",
+						"url": "https://reddit.com/r/monero",
+						"type": "reddit"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=583449.0",
+						"type": "bitcointalk"
+					}
+				],
+				"links": [
+					{
+						"name": "getmonero.org",
+						"type": "website",
+						"url": "https://getmonero.org/"
+					},
+					{
+						"name": "monero",
+						"url": "https://twitter.com/monero",
+						"type": "twitter"
+					},
+					{
+						"name": "bitmonero",
+						"url": "https://telegram.me/bitmonero",
+						"type": "telegram"
+					},
+					{
+						"name": "r/monero",
+						"url": "https://reddit.com/r/monero",
+						"type": "reddit"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=583449.0",
+						"type": "bitcointalk"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 642,
+				"numberOfExchanges": 101,
+				"type": "coin",
+				"volume": 259436330,
+				"marketCap": 2224124315,
+				"price": "125.4427891241",
+				"circulatingSupply": 17730188.641965576,
+				"totalSupply": 17730188.641965576,
+				"approvedSupply": true,
+				"firstSeen": 1422489600000,
+				"listedAt": 1422489600,
+				"change": 2.54,
+				"rank": 16,
+				"history": [
+					"122.3402029743",
+					"122.2203630206",
+					"122.0599259437",
+					"122.3347315122",
+					"122.2491812769",
+					"122.82863023",
+					"123.0043509934",
+					"123.1924460364",
+					"125.1681604175",
+					"124.9932140011",
+					"125.1731571183",
+					"125.2379537473",
+					"126.4358520586",
+					"126.9036469922",
+					"127.2758528195",
+					"127.2641005084",
+					"127.4498356179",
+					"127.7126283111",
+					"126.5004994486",
+					"126.0951523127",
+					"126.238119454",
+					"125.8130189725",
+					"125.5853913314",
+					"125.0733447396",
+					"125.2516695685",
+					"125.2557375204",
+					"125.4427891241"
+				],
+				"allTimeHigh": {
+					"price": "447.98507184923585",
+					"timestamp": 1515369600000
+				},
+				"penalty": false
+			},
+			{
+				"id": 6,
+				"uuid": "f3iaFeCKEmkaZ",
+				"slug": "stellar-xlm",
+				"symbol": "XLM",
+				"name": "Stellar",
+				"description": "<p>Stellar is an open-source, decentralized payment protocol that allows fast, cross-border payments between any pair of currencies, at almost no cost. Its native asset, originally known as Stellar, was later called Lumens (XLM). XLM powers the Stellar network and all of its operations.</p>\n<h3>The goal of Stellar</h3>\n<p>Stellar makes it possible to create, send, and trade digital representations of all forms of money: dollars, pesos, bitcoin, pretty much anything. It’s designed so all the world’s financial systems can work together on a single network. With this financial system they fight poverty and help develop individual potential. Stellar is useful and valuable because it is capable of hosting thousands of exchanges between currencies and tokens per second.</p>\n<h3>Who started Stellar</h3>\n<p>In 2014, Jed McCaleb, founder of Mt. Gox and co-founder of Ripple, launched the network system Stellar with former lawyer Joyce Kim. The nonprofit Stellar Development Foundation was created in collaboration with Stripe CEO Patrick Collison, later in 2014. This foundation employs technologists, scientists, designers, and businesspeople, all dedicated to building a more inclusive global marketplace. Their goal is to unlock the world’s economic potential by making money more fluid and people more empowered.</p>",
+				"color": "#000000",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/78CxK1xsp/Stellar_symbol_black_RGB.svg",
+				"websiteUrl": "https://www.stellar.org/",
+				"socials": [
+					{
+						"name": "stellarorg",
+						"url": "https://twitter.com/stellarorg",
+						"type": "twitter"
+					},
+					{
+						"name": "r/stellar",
+						"url": "https://www.reddit.com/r/stellar",
+						"type": "reddit"
+					},
+					{
+						"name": "BitcoinTalk",
+						"url": "https://bitcointalk.org/index.php?topic=1428573.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/stellarfoundation",
+						"type": "facebook"
+					},
+					{
+						"name": "stellar",
+						"url": "https://github.com/stellar",
+						"type": "github"
+					}
+				],
+				"links": [
+					{
+						"name": "www.stellar.org",
+						"type": "website",
+						"url": "https://www.stellar.org/"
+					},
+					{
+						"name": "Staking guide",
+						"url": "https://www.stakingrewards.com/asset/stellar",
+						"type": "website"
+					},
+					{
+						"name": "stellarorg",
+						"url": "https://twitter.com/stellarorg",
+						"type": "twitter"
+					},
+					{
+						"name": "r/stellar",
+						"url": "https://www.reddit.com/r/stellar",
+						"type": "reddit"
+					},
+					{
+						"name": "BitcoinTalk",
+						"url": "https://bitcointalk.org/index.php?topic=1428573.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/stellarfoundation",
+						"type": "facebook"
+					},
+					{
+						"name": "stellar",
+						"url": "https://github.com/stellar",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 717,
+				"numberOfExchanges": 123,
+				"type": "coin",
+				"volume": 278949116,
+				"marketCap": 1730692861,
+				"price": "0.0856544427",
+				"circulatingSupply": 20205523566.63592,
+				"totalSupply": 49999999738.63592,
+				"approvedSupply": true,
+				"firstSeen": 1484611200000,
+				"listedAt": 1484611200,
+				"change": 6.15,
+				"rank": 17,
+				"history": [
+					"0.0806934955",
+					"0.0807203481",
+					"0.081152231",
+					"0.0813848557",
+					"0.0808887564",
+					"0.081253745",
+					"0.0825616834",
+					"0.0835372893",
+					"0.0852510176",
+					"0.0848920317",
+					"0.0850523414",
+					"0.0857216002",
+					"0.0861881396",
+					"0.0858918484",
+					"0.086270365",
+					"0.0860586547",
+					"0.0855996972",
+					"0.0852258243",
+					"0.0853092205",
+					"0.0854859494",
+					"0.0855420009",
+					"0.0852396243",
+					"0.0853208455",
+					"0.0847500215",
+					"0.0847435111",
+					"0.0851608474",
+					"0.0856544427"
+				],
+				"allTimeHigh": {
+					"price": "0.8388618719671962",
+					"timestamp": 1515110400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 11,
+				"uuid": "qUhEFk1I61atv",
+				"slug": "tron-trx",
+				"symbol": "TRX",
+				"name": "TRON",
+				"description": "<p>TRON is an entertainment data platform, using the features of blockchain and peer-to-peer network technology. The platform enables content creators to create freely moveable digital assets. By using blockchain technology and distributed storage TRON aims to be completely decentralized. Tron has grown to become one of the largest cryptocurrencies in the world.</p>\n<h3>The goal of TRON</h3>\n<p>Tron is created to bridge the gap between content creators and content consumers by eliminating the middleman. The result is an overall cost reduction for the consumer and improved collection through direct receipts for the content producer, which offers a win-win situation.</p>\n<h3>Who started TRON</h3>\n<p>In 2017, Tron was launched by a nonprofit organization called the Tron Foundation, based in Singapore. The founder and CEO of Tron is Justin Sun, who is also CEO of BitTorrent and the former chief representative of Ripple. Justin has become one of the most controversial figures in the blockchain space, known for his elaborate marketing tactics.</p>",
+				"color": "#eb0029",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/behejNqQs/trx.svg",
+				"websiteUrl": "https://tron.network/index?lng=en",
+				"socials": [
+					{
+						"name": "tronfoundation",
+						"url": "https://twitter.com/tronfoundation",
+						"type": "twitter"
+					},
+					{
+						"name": "tronnetworken",
+						"url": "https://t.me/tronnetworken",
+						"type": "telegram"
+					},
+					{
+						"name": "r/tronix",
+						"url": "https://www.reddit.com/r/tronix/",
+						"type": "reddit"
+					},
+					{
+						"name": "Discord",
+						"url": "https://discordapp.com/invite/gsrgstd",
+						"type": "discord"
+					},
+					{
+						"name": "@tronfoundation",
+						"url": "https://medium.com/@tronfoundation",
+						"type": "medium"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/uc5opogrq02ik-0t9skse_ka",
+						"type": "youtube"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/tronfoundation-144555002795817/",
+						"type": "facebook"
+					},
+					{
+						"name": "tronfoundation",
+						"url": "https://www.instagram.com/tronfoundation",
+						"type": "instagram"
+					},
+					{
+						"name": "tronprotocol",
+						"url": "https://github.com/tronprotocol",
+						"type": "github"
+					}
+				],
+				"links": [
+					{
+						"name": "tron.network",
+						"type": "website",
+						"url": "https://tron.network/index?lng=en"
+					},
+					{
+						"name": "tronfoundation",
+						"url": "https://twitter.com/tronfoundation",
+						"type": "twitter"
+					},
+					{
+						"name": "tronnetworken",
+						"url": "https://t.me/tronnetworken",
+						"type": "telegram"
+					},
+					{
+						"name": "r/tronix",
+						"url": "https://www.reddit.com/r/tronix/",
+						"type": "reddit"
+					},
+					{
+						"name": "Discord",
+						"url": "https://discordapp.com/invite/gsrgstd",
+						"type": "discord"
+					},
+					{
+						"name": "@tronfoundation",
+						"url": "https://medium.com/@tronfoundation",
+						"type": "medium"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/uc5opogrq02ik-0t9skse_ka",
+						"type": "youtube"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/tronfoundation-144555002795817/",
+						"type": "facebook"
+					},
+					{
+						"name": "tronfoundation",
+						"url": "https://www.instagram.com/tronfoundation",
+						"type": "instagram"
+					},
+					{
+						"name": "tronprotocol",
+						"url": "https://github.com/tronprotocol",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 523,
+				"numberOfExchanges": 139,
+				"type": "coin",
+				"volume": 478282028,
+				"marketCap": 1703706224,
+				"price": "0.0257589997",
+				"circulatingSupply": 66140232427,
+				"totalSupply": 99281283754,
+				"approvedSupply": true,
+				"firstSeen": 1505260800000,
+				"listedAt": 1505260800,
+				"change": -0.35,
+				"rank": 18,
+				"history": [
+					"0.0258488693",
+					"0.0257824925",
+					"0.0257463252",
+					"0.0257344497",
+					"0.025715291",
+					"0.025792032",
+					"0.0258148804",
+					"0.0257927706",
+					"0.0258099388",
+					"0.0258275081",
+					"0.0258799884",
+					"0.0259332527",
+					"0.0260890137",
+					"0.0260006572",
+					"0.0260284286",
+					"0.0260405026",
+					"0.0260045253",
+					"0.0259509355",
+					"0.0259370702",
+					"0.025934603",
+					"0.0259219869",
+					"0.0258935537",
+					"0.0258831313",
+					"0.0258225651",
+					"0.0257739508",
+					"0.0257557804",
+					"0.0257589997"
+				],
+				"allTimeHigh": {
+					"price": "0.2180392689957852",
+					"timestamp": 1515196800000
+				},
+				"penalty": false
+			},
+			{
+				"id": 5331,
+				"uuid": "9K7m6ufraZ6gh",
+				"slug": "hex-hex",
+				"symbol": "HEX",
+				"name": "HEX",
+				"description": "HEX (HEX) is designed as a store of value for a Certificate of Deposit on the blockchain as used in traditional financial markets. HEX is also designed to leverage off the emerging DeFi.",
+				"color": null,
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/iseN4Am58/hex-vector.svg",
+				"websiteUrl": null,
+				"socials": [],
+				"links": [
+					{ "name": "hex.com", "url": "https://hex.com/", "type": "website" },
+					{
+						"name": "HEXCrypto",
+						"url": "https://twitter.com/HEXCrypto",
+						"type": "twitter"
+					},
+					{
+						"name": "HEXcrypto",
+						"url": "https://t.me/HEXcrypto",
+						"type": "telegram"
+					},
+					{
+						"name": "hexcrypto",
+						"url": "https://hexcrypto.reddit.com/",
+						"type": "reddit"
+					},
+					{
+						"name": "Discord",
+						"url": "https://discord.gg/CA8jVuF",
+						"type": "discord"
+					},
+					{
+						"name": "HexCrypto",
+						"url": "https://youtube.com/HexCrypto?sub_confirmation=1",
+						"type": "youtube"
+					},
+					{
+						"name": "HEXcrypto",
+						"url": "https://www.facebook.com/HEXcrypto",
+						"type": "facebook"
+					},
+					{
+						"name": "HEXcrypto",
+						"url": "https://www.instagram.com/HEXcrypto",
+						"type": "instagram"
+					},
+					{
+						"name": "bitcoinHEX",
+						"url": "https://github.com/bitcoinHEX",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 21,
+				"numberOfExchanges": 17,
+				"type": "coin",
+				"volume": 2160777,
+				"marketCap": 1639633479,
+				"price": "0.0043410219",
+				"circulatingSupply": 377706799831.3546,
+				"totalSupply": 377706902245.7108,
+				"approvedSupply": true,
+				"firstSeen": 1589361480000,
+				"listedAt": 1589361480,
+				"change": -0.41,
+				"rank": 19,
+				"history": [
+					"0.0043588214",
+					"0.0043430399",
+					"0.0043403896",
+					"0.0043338512",
+					"0.0043294246",
+					"0.0043313238",
+					"0.0043096137",
+					"0.0043032505",
+					"0.0043124607",
+					"0.0043370068",
+					"0.0043109893",
+					"0.0043183846",
+					"0.0043629751",
+					"0.0044178401",
+					"0.0044799653",
+					"0.0045071532",
+					"0.0044953544",
+					"0.0044488172",
+					"0.004457535",
+					"0.0043516184",
+					"0.0042827166",
+					"0.0042892448",
+					"0.0042751368",
+					"0.0042693173",
+					"0.0042775858",
+					"0.0043241836",
+					"0.0043410219"
+				],
+				"allTimeHigh": {
+					"price": "0.0062871302570292175",
+					"timestamp": 1589414400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 18,
+				"uuid": "fsIbGOEJWbzxG",
+				"slug": "tezos-xtz",
+				"symbol": "XTZ",
+				"name": "Tezos",
+				"description": "<p>Tezos (XTZ) is a smart contract platform that uses blockchain voting to be self-governing by its token holders. Also, the platform aims to boost the security of smart contracts through formal verification of code. The creators of Tezos believe that a decentralized system must be decentralized at all levels; all the decisions must be taken decentralized, especially the proposals to improve or change the project.</p>\n<h3>The goal of Tezos</h3>\n<p>Tezos focusses on three main issues; smart contract safety, long-term upgradability, and open participation. Tezos is designed to provide the code correctness and safety that is necessary for assets and other important use cases. Tezos has a so-called modular architecture, which refers to the design of a system composed of separate components that can be connected together. Together with its formal upgrade mechanism, Tezos’ allows the network to adopt and propose innovations very smoothly. All stakeholders may participate in network upgrades by evaluating, proposing, or approving changes.</p>\n<h3>Who started Tezos</h3>\n<p>Since 2014, co-founders (while being a couple) Arthur Breitman and Kathleen Breitman, have been developing Tezos with a core group of developers. In 2017, the Tezos Foundation headquartered in Switzerland raised $232 million in just two weeks in a fundraiser. It became one of the biggest ICOs.</p>",
+				"color": "#2c7df7",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/HkLUdilQ7/xtz.svg",
+				"websiteUrl": "https://www.tezos.com",
+				"socials": [
+					{
+						"name": "tezos",
+						"url": "https://twitter.com/tezos",
+						"type": "twitter"
+					},
+					{
+						"name": "r/tezos",
+						"url": "https://www.reddit.com/r/tezos/",
+						"type": "reddit"
+					},
+					{
+						"name": "@tezos",
+						"url": "https://medium.com/@tezos",
+						"type": "medium"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=715818.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/ucmexyclrgsifqs_sqmeolqq",
+						"type": "youtube"
+					},
+					{
+						"name": "tezos/tezos",
+						"url": "https://github.com/tezos/tezos",
+						"type": "github"
+					}
+				],
+				"links": [
+					{
+						"name": "tezos.com",
+						"url": "https://www.tezos.com",
+						"type": "website"
+					},
+					{
+						"name": "Staking guide",
+						"url": "https://www.stakingrewards.com/asset/tezos",
+						"type": "website"
+					},
+					{
+						"name": "Earn Tezos",
+						"url": "https://www.coinbase.com/earn/tezos",
+						"type": "website"
+					},
+					{
+						"name": "Rewards Calculator",
+						"url": "https://stake.fish/tezos/calculator/",
+						"type": "website"
+					},
+					{
+						"name": "mytezosbaker.com",
+						"url": "https://mytezosbaker.com/",
+						"type": "website"
+					},
+					{
+						"name": "Baking Cycles Bot",
+						"url": "https://twitter.com/tezosalerts",
+						"type": "website"
+					},
+					{
+						"name": "tezos",
+						"url": "https://twitter.com/tezos",
+						"type": "twitter"
+					},
+					{
+						"name": "tezosplatform",
+						"url": "https://t.me/tezosplatform",
+						"type": "telegram"
+					},
+					{
+						"name": "TezosAnnouncements",
+						"url": "https://t.me/TezosAnnouncements",
+						"type": "telegram"
+					},
+					{
+						"name": "r/tezos",
+						"url": "https://www.reddit.com/r/tezos/",
+						"type": "reddit"
+					},
+					{
+						"name": "@tezos",
+						"url": "https://medium.com/@tezos",
+						"type": "medium"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=715818.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/ucmexyclrgsifqs_sqmeolqq",
+						"type": "youtube"
+					},
+					{
+						"name": "tezos/tezos",
+						"url": "https://github.com/tezos/tezos",
+						"type": "github"
+					},
+					{
+						"name": "tzstats.com",
+						"url": "https://tzstats.com",
+						"type": "explorer"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 155,
+				"numberOfExchanges": 64,
+				"type": "coin",
+				"volume": 84546359,
+				"marketCap": 1634915174,
+				"price": "2.1879740356",
+				"circulatingSupply": 747227868.123886,
+				"totalSupply": 853508836.298238,
+				"approvedSupply": true,
+				"firstSeen": 1530662400000,
+				"listedAt": 1530662400,
+				"change": -0.55,
+				"rank": 20,
+				"history": [
+					"2.1999685319",
+					"2.1975566588",
+					"2.196035283",
+					"2.1945321987",
+					"2.197280783",
+					"2.2018431776",
+					"2.2048633531",
+					"2.2034013201",
+					"2.2144245286",
+					"2.2122555565",
+					"2.2137343301",
+					"2.2209833382",
+					"2.2346696583",
+					"2.226546642",
+					"2.2376056956",
+					"2.2212447163",
+					"2.2124623078",
+					"2.198948779",
+					"2.1976440453",
+					"2.1891142667",
+					"2.1917198587",
+					"2.1853734124",
+					"2.1878832974",
+					"2.1823120886",
+					"2.187420219",
+					"2.1888508671",
+					"2.1879740356"
+				],
+				"allTimeHigh": {
+					"price": "4.222439340048133",
+					"timestamp": 1597276800000
+				},
+				"penalty": false
+			},
+			{
+				"id": 4966,
+				"uuid": "Knsels4_Ol-Ny",
+				"slug": "cosmos-atom",
+				"symbol": "ATOM*",
+				"name": "Cosmos",
+				"description": "<p>Cosmos is a secure & scalable blockchain ecosystem where thousands of dApps interoperate to create the foundation for a new token economy. The network is made of many independent blockchains that utilize Byzantine fault-tolerant (BFT) consensus mechanisms, including Tendermint BFT. (BFT is the feature of a distributed network to reach consensus even when some of the nodes in the network fail to respond or respond with incorrect information.) Each individual blockchain maintains control of its own governance but is interoperable with other blockchains in the network. Blockchains not using BFT algorithms can be connected to the Cosmos network via “adaptor” blockchains.</p>\n<h3>The goal of Cosmos</h3>\n<p>Cosmos was not designed for one particular use case, but to be adaptable to suit many different use cases. The project tries to solve several blockchain problems, focussing on scalability, usability and interoperability. Cosmos aims to create what they describe as the “‘Internet of Blockchains”, a network of blockchains able to communicate with each other in a decentralized way. ATOm is the native staking token of the Cosmos Hub, however, it’s not the sole asset of the Hub or the entire network. The Cosmos Hub is a “multi-asset” blockchain and other blockchains in the network can have their own native assets.</p>",
+				"color": "#5064fb",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/HJzHboruM/atom.svg",
+				"websiteUrl": "https://cosmos.network",
+				"socials": [
+					{
+						"name": "cosmos",
+						"url": "https://twitter.com/cosmos",
+						"type": "twitter"
+					},
+					{
+						"name": "cosmosproject",
+						"url": "https://t.me/cosmosproject",
+						"type": "telegram"
+					},
+					{
+						"name": "r/cosmosnetwork",
+						"url": "https://reddit.com/r/cosmosnetwork",
+						"type": "reddit"
+					},
+					{
+						"name": "Medium",
+						"url": "https://blog.cosmos.network/",
+						"type": "medium"
+					},
+					{
+						"name": "CosmosProject",
+						"url": "https://www.youtube.com/c/CosmosProject",
+						"type": "youtube"
+					}
+				],
+				"links": [
+					{
+						"name": "cosmos.network",
+						"type": "website",
+						"url": "https://cosmos.network"
+					},
+					{
+						"name": "Staking guide",
+						"url": "https://www.stakingrewards.com/asset/cosmos",
+						"type": "website"
+					},
+					{
+						"name": "Rewards calculator",
+						"url": "https://stake.fish/en/cosmos/calculator/",
+						"type": "website"
+					},
+					{
+						"name": "Validators leaderboard",
+						"url": "https://cosmos.fish/leaderboard",
+						"type": "website"
+					},
+					{
+						"name": "cosmos",
+						"url": "https://twitter.com/cosmos",
+						"type": "twitter"
+					},
+					{
+						"name": "cosmosproject",
+						"url": "https://t.me/cosmosproject",
+						"type": "telegram"
+					},
+					{
+						"name": "r/cosmosnetwork",
+						"url": "https://reddit.com/r/cosmosnetwork",
+						"type": "reddit"
+					},
+					{
+						"name": "Medium",
+						"url": "https://blog.cosmos.network/",
+						"type": "medium"
+					},
+					{
+						"name": "CosmosProject",
+						"url": "https://www.youtube.com/c/CosmosProject",
+						"type": "youtube"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 95,
+				"numberOfExchanges": 38,
+				"type": "coin",
+				"volume": 79022997,
+				"marketCap": 1309532543,
+				"price": "5.4901014695",
+				"circulatingSupply": 238526109.3463,
+				"totalSupply": 260368298.1563,
+				"approvedSupply": true,
+				"firstSeen": 1552520100000,
+				"listedAt": 1552520100,
+				"change": -2.23,
+				"rank": 21,
+				"history": [
+					"5.6152978632",
+					"5.6079715555",
+					"5.6062217025",
+					"5.6117615493",
+					"5.5960148168",
+					"5.6174883001",
+					"5.6095107994",
+					"5.6123930186",
+					"5.635609049",
+					"5.6283141784",
+					"5.6387361242",
+					"5.6456579465",
+					"5.6458204638",
+					"5.6743211678",
+					"5.6711138921",
+					"5.6765508943",
+					"5.6216546303",
+					"5.5717886274",
+					"5.559879323",
+					"5.5471785953",
+					"5.5251296683",
+					"5.4862209242",
+					"5.4980373494",
+					"5.4538186884",
+					"5.4584851467",
+					"5.4760416891",
+					"5.4901014695"
+				],
+				"allTimeHigh": {
+					"price": "8.21290730008476",
+					"timestamp": 1598313600000
+				},
+				"penalty": false
+			},
+			{
+				"id": 1524,
+				"uuid": "PDKcptVnzJTmN",
+				"slug": "okb-okb",
+				"symbol": "OKB",
+				"name": "OKB",
+				"description": "<p>OKB (OKB)  is a global utility token issued by the OK Blockchain Foundation, set to connect prospective digital asset projects to OKEx users as well as professional investors, creating an OKEx ecosystem that helps to advance the development of blockchain technology and the digital asset industry. Within the OKEx Exchange, OKB is used as a utility token that allows users to receive discounts when paying for their trading fees.</p>\n<h3>The goal of OKB</h3>\n<p>OKB is a global utility token issued by OKEx and is the native coin of the OKChain blockchain. OKB is used to pay transaction fees, and also used in the decentralized apps (Dapps) developed on OKChain. OKB is now used also in several other use cases, both within and outside the OKEx ecosystem.</p>\n<h3>Who started OKB</h3>\n<p>In 2014, OKEx was created in China, by CRO Tim Byun, COO Andy Cheung, and Director Lennix Lai. Later, the OKEx operations team was secretly developing a blockchain of their own; in 2019 they launched OKChain blockchain mainnet. OKB has since moved from ERC-20 to OKChain and has grown to be accepted and used in various use cases.</p>",
+				"color": "#2d60e0",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/BJcjC5rCQ/Okex.svg",
+				"websiteUrl": "https://www.okex.com/activity/okbBoss",
+				"socials": [
+					{
+						"name": "okex",
+						"url": "https://twitter.com/okex",
+						"type": "twitter"
+					},
+					{
+						"name": "okex_announcements",
+						"url": "https://t.me/okex_announcements",
+						"type": "telegram"
+					},
+					{
+						"name": "okexofficial_en",
+						"url": "https://t.me/okexofficial_en",
+						"type": "telegram"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/1418774981516264",
+						"type": "facebook"
+					}
+				],
+				"links": [
+					{
+						"name": "www.okex.com",
+						"type": "website",
+						"url": "https://www.okex.com/activity/okbBoss"
+					},
+					{
+						"name": "okex",
+						"url": "https://twitter.com/okex",
+						"type": "twitter"
+					},
+					{
+						"name": "okex_announcements",
+						"url": "https://t.me/okex_announcements",
+						"type": "telegram"
+					},
+					{
+						"name": "okexofficial_en",
+						"url": "https://t.me/okexofficial_en",
+						"type": "telegram"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/1418774981516264",
+						"type": "facebook"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 131,
+				"numberOfExchanges": 35,
+				"type": "coin",
+				"volume": 45819103,
+				"marketCap": 1268915123,
+				"price": "4.6056609308",
+				"circulatingSupply": 275512058.43,
+				"totalSupply": 300000000,
+				"approvedSupply": true,
+				"firstSeen": 1538524800000,
+				"listedAt": 1538524800,
+				"change": -1.27,
+				"rank": 22,
+				"history": [
+					"4.6650086462",
+					"4.6165175959",
+					"4.493128469",
+					"4.6094871047",
+					"4.5747383488",
+					"4.6022792318",
+					"4.5818262009",
+					"4.5626635406",
+					"4.518100642",
+					"4.4920388857",
+					"4.6315552387",
+					"4.640054596",
+					"4.6359217151",
+					"4.5891667444",
+					"4.5737374144",
+					"4.5401407534",
+					"4.557506083",
+					"4.535096108",
+					"4.5431156509",
+					"4.540292302",
+					"4.5415257303",
+					"4.5547262687",
+					"4.5515551965",
+					"4.5288249255",
+					"4.566535524",
+					"4.6029364614",
+					"4.6056609308"
+				],
+				"allTimeHigh": {
+					"price": "7.056194853319747",
+					"timestamp": 1582070400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 15,
+				"uuid": "cVaOmQWainv7g",
+				"slug": "neo-neo",
+				"symbol": "NEO",
+				"name": "NEO",
+				"description": "<p>Neo (NEO) is a distributed smart economy network that utilizes blockchain technology and digital identity. The platform allows digitizing assets and making them self-managed by using smart contracts.</p>\n<h3>The goal of NEO</h3>\n<p>Neo is designed to digitize assets using smart contracts, aiming to bring blockchain to the masses.</p>\n<h3>Who started NEO</h3>\n<p>In 2014, NEO was first launched as Antshares by Da Hongfei,  by Da HongFei and Erik Zhang. In 2017 the project was rebranded as NEO. NEO has an active development team with both in-house developers in charge of developing the platform and a strong community of third-party developers, who develop the decentralized apps (DApps).</p>\n<h3>Neo technology</h3>\n<p>NEO is a unique blockchain algorithm, supporting decentralized commerce, identification, and digitization of various assets. It integrates blockchain technology with the digital identity, creating ways for physical assets like money or company shares assets to be digitized and exchanged over the NEO network in a peer-to-peer manner. NEO wants to create a platform on which other decentralized applications can be built by allowing users to execute smart contracts on their blockchain, thus increasing the spread of the blockchain technology.</p>",
+				"color": "#aedb00",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/MgUNVQCeN/neo.svg",
+				"websiteUrl": "https://neo.org/",
+				"socials": [
+					{
+						"name": "neo_blockchain",
+						"url": "https://twitter.com/neo_blockchain",
+						"type": "twitter"
+					},
+					{
+						"name": "r/neo",
+						"url": "https://www.reddit.com/r/neo/",
+						"type": "reddit"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/neosmartecon/",
+						"type": "facebook"
+					},
+					{
+						"name": "neo-project",
+						"url": "https://github.com/neo-project",
+						"type": "github"
+					}
+				],
+				"links": [
+					{ "name": "neo.org", "type": "website", "url": "https://neo.org/" },
+					{
+						"name": "Staking guide",
+						"url": "https://www.stakingrewards.com/asset/neo",
+						"type": "website"
+					},
+					{
+						"name": "neo_blockchain",
+						"url": "https://twitter.com/neo_blockchain",
+						"type": "twitter"
+					},
+					{
+						"name": "r/neo",
+						"url": "https://www.reddit.com/r/neo/",
+						"type": "reddit"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/neosmartecon/",
+						"type": "facebook"
+					},
+					{
+						"name": "neo-project",
+						"url": "https://github.com/neo-project",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 348,
+				"numberOfExchanges": 104,
+				"type": "coin",
+				"volume": 306484874,
+				"marketCap": 1266937616,
+				"price": "17.5476862983",
+				"circulatingSupply": 72199696,
+				"totalSupply": 100000000,
+				"approvedSupply": true,
+				"firstSeen": 1501891200000,
+				"listedAt": 1501891200,
+				"change": 2.13,
+				"rank": 23,
+				"history": [
+					"17.1817783789",
+					"17.1545907607",
+					"17.1496404155",
+					"17.1854810427",
+					"17.1934056787",
+					"17.3421686181",
+					"17.2503308211",
+					"17.185843826",
+					"17.2181541674",
+					"17.2471533022",
+					"17.3590494134",
+					"17.3973827767",
+					"17.5066269177",
+					"17.462930246",
+					"17.5750793888",
+					"17.6094043712",
+					"17.5719358238",
+					"17.5141373598",
+					"17.4912448159",
+					"17.4374621581",
+					"17.3629312642",
+					"17.3538082849",
+					"17.549485407",
+					"17.5323314034",
+					"17.5209866882",
+					"17.5297488852",
+					"17.5476862983"
+				],
+				"allTimeHigh": {
+					"price": "169.67828825811074",
+					"timestamp": 1516060800000
+				},
+				"penalty": false
+			},
+			{
+				"id": 10607,
+				"uuid": "x4WXHge-vvFY",
+				"slug": "wrappedbtc-wbtc",
+				"symbol": "WBTC***",
+				"name": "Wrapped BTC",
+				"description": "WBTC is a community-focused initiative to bring bitcoin to Ethereum as a 1:1 backed token. The custody of the bitcoin reserves is taken care of by BitGo.",
+				"color": null,
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/o3-8cvCHu/wbtc[1].svg",
+				"websiteUrl": null,
+				"socials": [],
+				"links": [
+					{
+						"name": "wbtc.network",
+						"url": "https://wbtc.network/",
+						"type": "website"
+					},
+					{
+						"name": "WrappedBTC",
+						"url": "https://twitter.com/WrappedBTC",
+						"type": "twitter"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 45,
+				"numberOfExchanges": 12,
+				"type": "coin",
+				"volume": 8780204,
+				"marketCap": 1238903274,
+				"price": "11722.4488810112",
+				"circulatingSupply": 105686.38738589,
+				"totalSupply": 105686.38738589,
+				"approvedSupply": true,
+				"firstSeen": 1549894980000,
+				"listedAt": 1549894980,
+				"change": 2.37,
+				"rank": 24,
+				"history": [
+					"11450.6104669751",
+					"11439.0488870788",
+					"11409.3070585073",
+					"11406.2257223527",
+					"11409.3995842652",
+					"11439.4372976281",
+					"11445.9640128581",
+					"11423.2776038306",
+					"11452.9500310235",
+					"11462.3736820925",
+					"11465.9754233113",
+					"11534.0143419853",
+					"11633.5542532825",
+					"11605.7435956581",
+					"11693.3858425377",
+					"11693.0187875317",
+					"11670.3002240389",
+					"11659.518081582",
+					"11636.0953246708",
+					"11682.4660262438",
+					"11703.2808456061",
+					"11714.6742016498",
+					"11702.5215816295",
+					"11687.2672639153",
+					"11686.0565955312",
+					"11696.2214679161",
+					"11722.4488810112"
+				],
+				"allTimeHigh": {
+					"price": "54341.35886263373",
+					"timestamp": 1563580800000
+				},
+				"penalty": false
+			},
+			{
+				"id": 14755,
+				"uuid": "mqtUpyBxu8O8",
+				"slug": "leo-leo",
+				"symbol": "LEO*",
+				"name": "LEO",
+				"description": "<p>LEO (LEO) is a utility token issued by parent company iFinex. The token is intended for the use on the Bitfinex exchange and other trading platforms managed by iFinex. The token aims to strengthen the Bitfinex community and optimize the platform’s operations.</p>\n<h3>The goal of Leo</h3>\n<p>LEO is created to make the platform run on a more attractive option for its holders by introducing a whole range of planned benefits for them. As first, the LEO token will support the reduction of taker and lending fees for the use of trading platforms, products and services offered by the iFinex. Second, as LEO is the utility token found at the heart of the Bitfinex ecosystem, it is supposed to optimize the trading processes taking place in it. And proceeds from the LEO token initial exchange offering should help the organizers improve their business prospects.</p>\n<h3>Who started Leo</h3>\n<p>In 2012, Bitfinex was founded as a peer-to-peer Bitcoin-focused exchange, making it one of the older exchange players in the blockchain industry. In May 2019, its core team, which also managed the LEO token project, numbered more than 100 professionals. In line with the company’s stated philosophy of favoring quality over quantity, the headcount of those strictly working on the development does not go above 25.</p>",
+				"color": "#063f35",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/12EKqY08r/leo.svg",
+				"websiteUrl": null,
+				"socials": [],
+				"links": [
+					{
+						"name": "www.bitfinex.com",
+						"url": "https://www.bitfinex.com/",
+						"type": "website"
+					},
+					{
+						"name": "bitfinex",
+						"url": "https://twitter.com/bitfinex",
+						"type": "twitter"
+					},
+					{
+						"name": "bitfinex1",
+						"url": "https://www.facebook.com/bitfinex1",
+						"type": "facebook"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 31,
+				"numberOfExchanges": 14,
+				"type": "coin",
+				"volume": 10163867,
+				"marketCap": 1194498653,
+				"price": "1.2114993283",
+				"circulatingSupply": 985967243,
+				"totalSupply": 995239762,
+				"approvedSupply": true,
+				"firstSeen": 1561471620000,
+				"listedAt": 1561471620,
+				"change": 0.44,
+				"rank": 25,
+				"history": [
+					"1.2061721488",
+					"1.2070806264",
+					"1.2086074801",
+					"1.2095916619",
+					"1.2095578118",
+					"1.2115115929",
+					"1.2102921836",
+					"1.2090341517",
+					"1.2088555491",
+					"1.209494947",
+					"1.2105595441",
+					"1.2117060183",
+					"1.2134785162",
+					"1.2158798508",
+					"1.2175212825",
+					"1.2180049587",
+					"1.2193315226",
+					"1.2139960837",
+					"1.2103669098",
+					"1.2106374804",
+					"1.2094196753",
+					"1.2114519832",
+					"1.2122163226",
+					"1.213052682",
+					"1.2125381839",
+					"1.2110512587",
+					"1.2114993283"
+				],
+				"allTimeHigh": {
+					"price": "1.9049718995580334",
+					"timestamp": 1561507200000
+				},
+				"penalty": false
+			},
+			{
+				"id": 71,
+				"uuid": "DXwP4wF9ksbBO",
+				"slug": "huobitoken-ht",
+				"symbol": "HT",
+				"name": "Huobi Token",
+				"description": "<p>The Huobi Token (HT) is a decentralized digital token issued on the Ethereum blockchain. It’s used for trading on the Huobi exchange and initially created to reward Huobi exchange users with lowered fees for using this token. Huobi Token was distributed to pay back the Huobi VIP members in response to China’s crypto ban and decreased trading activity. This token is tradeable with any cryptocurrency on the Huobi exchange and comes with voting rights.</p>\n<h3>The goal of Huobi Token</h3>\n<p>The Huobi Group developed the Huobi Token to be used on the Huobi exchange. It can also be used in all sorts of applications within the Huobi ecosystem and in the global business. The token is created to let Huobi Token holders benefit from the whole ecosystem of Huobi and get ecological sub-token rewards, as well as the valuable promotion brought by sustained repurchase and destruction.</p>\n<h3>Who started Huobi Token</h3>\n<p>In 2013, former Oracle engineer Leon Li. founded the Singapore-based exchange Huobi. Originally based in China, the Huobi Foundation expanded to Singapore, South Korea, and Japan. In 2018, the Huobi Group created the Huobi Token, in response to China’s crypto ban from 2017.</p>",
+				"color": "#2daadf",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/ryFpQe0c7/ht.svg",
+				"websiteUrl": "https://www.huobi.com/",
+				"socials": [
+					{
+						"name": "huobi_pro",
+						"url": "https://twitter.com/huobi_pro",
+						"type": "twitter"
+					},
+					{
+						"name": "huobiproofficial",
+						"url": "https://t.me/huobiproofficial",
+						"type": "telegram"
+					},
+					{
+						"name": "huobi-global",
+						"url": "https://medium.com/huobi-global",
+						"type": "medium"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/ucabkgl5rrak61e2qtjtqcxw/featured",
+						"type": "youtube"
+					},
+					{
+						"name": "huobiglobalofficial",
+						"url": "https://www.instagram.com/huobiglobalofficial",
+						"type": "instagram"
+					}
+				],
+				"links": [
+					{
+						"name": "www.huobi.com",
+						"type": "website",
+						"url": "https://www.huobi.com/"
+					},
+					{
+						"name": "huobi_pro",
+						"url": "https://twitter.com/huobi_pro",
+						"type": "twitter"
+					},
+					{
+						"name": "huobiproofficial",
+						"url": "https://t.me/huobiproofficial",
+						"type": "telegram"
+					},
+					{
+						"name": "huobi-global",
+						"url": "https://medium.com/huobi-global",
+						"type": "medium"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/ucabkgl5rrak61e2qtjtqcxw/featured",
+						"type": "youtube"
+					},
+					{
+						"name": "huobiglobalofficial",
+						"url": "https://www.instagram.com/huobiglobalofficial",
+						"type": "instagram"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 141,
+				"numberOfExchanges": 47,
+				"type": "coin",
+				"volume": 92195449,
+				"marketCap": 901660827,
+				"price": "4.3936960808",
+				"circulatingSupply": 205216931.35486853,
+				"totalSupply": 500000000,
+				"approvedSupply": true,
+				"firstSeen": 1517702400000,
+				"listedAt": 1517702400,
+				"change": 0.59,
+				"rank": 26,
+				"history": [
+					"4.3680083036",
+					"4.3633531219",
+					"4.3717650079",
+					"4.3744040857",
+					"4.3694934709",
+					"4.3781711737",
+					"4.3727751147",
+					"4.3716818625",
+					"4.3831925911",
+					"4.3797926915",
+					"4.3833487397",
+					"4.3823724432",
+					"4.3956817958",
+					"4.3980169896",
+					"4.4055906464",
+					"4.4121798987",
+					"4.4109674398",
+					"4.4028728109",
+					"4.3979786687",
+					"4.3971968783",
+					"4.3928900345",
+					"4.3921491339",
+					"4.384010856",
+					"4.3820117442",
+					"4.3861889858",
+					"4.3942990656",
+					"4.3936960808"
+				],
+				"allTimeHigh": {
+					"price": "5.906084061311888",
+					"timestamp": 1528243200000
+				},
+				"penalty": false
+			},
+			{
+				"id": 14585,
+				"uuid": "TpHE2IShQw-sJ",
+				"slug": "algorand-algo",
+				"symbol": "ALGO",
+				"name": "Algorand",
+				"description": "<p>Algorand (ALGO) is a public blockchain that uses a unique consensus mechanism, called pure proof-of-stake. The company claims that it offers high scalability and that it prevents forks from happening. Algorand makes it simple and fast for developers to build on blockchain; you can build applications on Algorand in your preferred programming languages.</p>\n<h3>The goal of Algorand</h3>\n<p>The Algorand foundation aimed to create an open, public and permissionless blockchain. They had a vision for an inclusive ecosystem that provides an opportunity for everyone to harness the potential of an equitable and truly borderless economy. Algorand aims to be a decentralized, secure, and scalable blockchain which provides a common platform for building products and services for a borderless economy.</p>\n<h3>Who started Algorand</h3>\n<p>In 2017, Algorand was founded by cryptography entrepreneur, and MIT professor, Silvio Micali. He designed the Algorand platform with an internationally recognized team of researchers, mathematicians, cryptographers, and economists.</p> ",
+				"color": null,
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/lzbmCkUGB/algo.svg",
+				"websiteUrl": "https://algorand.foundation/",
+				"socials": [],
+				"links": [
+					{
+						"name": "algorand.foundation",
+						"type": "website",
+						"url": "https://algorand.foundation/"
+					},
+					{
+						"name": "Staking guide",
+						"url": "https://www.stakingrewards.com/asset/algorand",
+						"type": "website"
+					},
+					{
+						"name": "Algorand",
+						"url": "https://twitter.com/Algorand",
+						"type": "twitter"
+					},
+					{
+						"name": "algorand",
+						"url": "https://t.me/algorand",
+						"type": "telegram"
+					},
+					{
+						"name": "AlgorandOfficial",
+						"url": "https://www.reddit.com/r/AlgorandOfficial/",
+						"type": "reddit"
+					},
+					{
+						"name": "algorand",
+						"url": "https://medium.com/algorand",
+						"type": "medium"
+					},
+					{
+						"name": "algorand",
+						"url": "https://www.youtube.com/algorand",
+						"type": "youtube"
+					},
+					{
+						"name": "algorand",
+						"url": "https://www.facebook.com/algorand/",
+						"type": "facebook"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 111,
+				"numberOfExchanges": 46,
+				"type": "coin",
+				"volume": 35158625,
+				"marketCap": 842256858,
+				"price": "0.3015394375",
+				"circulatingSupply": 2793189724.6751957,
+				"totalSupply": 10000000000,
+				"approvedSupply": true,
+				"firstSeen": 1562082540000,
+				"listedAt": 1562082540,
+				"change": -3.39,
+				"rank": 27,
+				"history": [
+					"0.3121193487",
+					"0.3121057153",
+					"0.311268676",
+					"0.3095124605",
+					"0.3072492164",
+					"0.3079426041",
+					"0.308677889",
+					"0.3073519329",
+					"0.3079764239",
+					"0.3077613219",
+					"0.3096302259",
+					"0.3109841778",
+					"0.3129739058",
+					"0.3128091378",
+					"0.3132135933",
+					"0.3137625114",
+					"0.3130542684",
+					"0.3114361734",
+					"0.3115962912",
+					"0.3106507233",
+					"0.3107559556",
+					"0.3081377944",
+					"0.3041303158",
+					"0.3016292563",
+					"0.3015632743",
+					"0.3014282578",
+					"0.3015394375"
+				],
+				"allTimeHigh": {
+					"price": "1.1159248749973796",
+					"timestamp": 1562112000000
+				},
+				"penalty": false
+			},
+			{
+				"id": 72821,
+				"uuid": "_H5FVG9iW",
+				"slug": "uniswap-uni",
+				"symbol": "UNI***",
+				"name": "Uniswap",
+				"description": null,
+				"color": "#ff007a",
+				"iconType": "pixel",
+				"iconUrl": "https://cdn.coinranking.com/1heSvUgtl/uniswap-v2.svg?size=48x48",
+				"websiteUrl": null,
+				"socials": [],
+				"links": [
+					{
+						"name": "UNI announcement",
+						"url": "https://uniswap.org/blog/uni/",
+						"type": "website"
+					},
+					{
+						"name": "uniswap.org",
+						"url": "https://uniswap.org",
+						"type": "website"
+					},
+					{
+						"name": "uniswapprotocol",
+						"url": "https://twitter.com/uniswapprotocol",
+						"type": "twitter"
+					},
+					{
+						"name": "Uniswap",
+						"url": "https://www.reddit.com/r/Uniswap",
+						"type": "reddit"
+					},
+					{
+						"name": "discord.com",
+						"url": "https://discord.com/invite/XErMcTq",
+						"type": "discord"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 72,
+				"numberOfExchanges": 38,
+				"type": "coin",
+				"volume": 111888601,
+				"marketCap": 832610993,
+				"price": "3.1427098524",
+				"circulatingSupply": 264934095.813502,
+				"totalSupply": 1000000000,
+				"approvedSupply": true,
+				"firstSeen": 1600323420000,
+				"listedAt": 1600323371,
+				"change": -1.76,
+				"rank": 28,
+				"history": [
+					"3.1989161478",
+					"3.1914792248",
+					"3.178700417",
+					"3.187036576",
+					"3.1948252068",
+					"3.2019916225",
+					"3.1978936309",
+					"3.1916188014",
+					"3.2143429122",
+					"3.2116457069",
+					"3.2167069948",
+					"3.2309034335",
+					"3.2261386831",
+					"3.1984380779",
+					"3.1988537171",
+					"3.2334837708",
+					"3.2235467505",
+					"3.197771502",
+					"3.1832869787",
+					"3.1582715421",
+					"3.1477833121",
+					"3.1456185574",
+					"3.1554455408",
+					"3.1721511563",
+					"3.1651335667",
+					"3.14576638",
+					"3.1427098524"
+				],
+				"allTimeHigh": {
+					"price": "6.64580424289189",
+					"timestamp": 1600473600000
+				},
+				"penalty": false
+			},
+			{
+				"id": 14066,
+				"uuid": "vSo2fu9iE1s0Y",
+				"slug": "busd-busd",
+				"symbol": "BUSD",
+				"name": "BUSD ",
+				"description": "BUSD is a stablecoin that is pegged to the US dollar (USD) and issued on the Ethereum blockchain. The issuers of this stablecoin are Binance and Paxos.",
+				"color": "#f0b90b",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/6SJHRfClq/busd.svg",
+				"websiteUrl": null,
+				"socials": [],
+				"links": [
+					{
+						"name": "binance.com",
+						"url": "https://www.binance.com/en/busd",
+						"type": "website"
+					},
+					{
+						"name": "paxos.com",
+						"url": "https://www.paxos.com/busd/",
+						"type": "website"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 72,
+				"numberOfExchanges": 28,
+				"type": "coin",
+				"volume": 73520875,
+				"marketCap": 798562397,
+				"price": "0.9996788655",
+				"circulatingSupply": 798818925.1500001,
+				"totalSupply": 798818925.1500001,
+				"approvedSupply": true,
+				"firstSeen": 1563197940000,
+				"listedAt": 1563197940,
+				"change": -0.05,
+				"rank": 29,
+				"history": [
+					"1.0001755806",
+					"1.0000741427",
+					"1.0007422212",
+					"1.0009372654",
+					"1.0000245714",
+					"1.0017049258",
+					"1.0013880128",
+					"1.0000421084",
+					"0.99997623",
+					"0.9999475111",
+					"0.9999660699",
+					"0.9995021512",
+					"0.9999911901",
+					"0.9997473082",
+					"0.9994196664",
+					"0.9995159576",
+					"0.9996123171",
+					"0.9996370365",
+					"1.0000062235",
+					"0.9998990709",
+					"0.9996567361",
+					"0.9995694201",
+					"0.9995877905",
+					"0.9997930961",
+					"0.9997562746",
+					"0.9999138249",
+					"0.9996788655"
+				],
+				"allTimeHigh": {
+					"price": "1.0371167533822538",
+					"timestamp": 1569283200000
+				},
+				"penalty": false
+			},
+			{
+				"id": 17,
+				"uuid": "DZtb-6X8yCx0h",
+				"slug": "nem-xem",
+				"symbol": "XEM",
+				"name": "NEM",
+				"description": "NEM is a configurable blockchain which implements an enterprise blockchain data system, whilst minimizing its complexity to integrate seamlessly with other existing systems.",
+				"color": "#67b2e8",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/Bkvu9rOOZ/xem.svg",
+				"websiteUrl": "https://nem.io/",
+				"socials": [
+					{
+						"name": "nemofficial",
+						"url": "https://twitter.com/nemofficial",
+						"type": "twitter"
+					},
+					{
+						"name": "nemred",
+						"url": "https://t.me/nemred",
+						"type": "telegram"
+					},
+					{
+						"name": "r/nem",
+						"url": "https://www.reddit.com/r/nem/",
+						"type": "reddit"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=654845.new#new",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/ournem/",
+						"type": "facebook"
+					},
+					{
+						"name": "nemproject",
+						"url": "https://github.com/nemproject",
+						"type": "github"
+					}
+				],
+				"links": [
+					{ "name": "nem.io", "type": "website", "url": "https://nem.io/" },
+					{
+						"name": "Staking guide",
+						"url": "https://www.stakingrewards.com/asset/nem",
+						"type": "website"
+					},
+					{
+						"name": "nemofficial",
+						"url": "https://twitter.com/nemofficial",
+						"type": "twitter"
+					},
+					{
+						"name": "nemred",
+						"url": "https://t.me/nemred",
+						"type": "telegram"
+					},
+					{
+						"name": "r/nem",
+						"url": "https://www.reddit.com/r/nem/",
+						"type": "reddit"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=654845.new#new",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/ournem/",
+						"type": "facebook"
+					},
+					{
+						"name": "nemproject",
+						"url": "https://github.com/nemproject",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 183,
+				"numberOfExchanges": 68,
+				"type": "coin",
+				"volume": 19941149,
+				"marketCap": 792226085,
+				"price": "0.1119468581",
+				"circulatingSupply": 7076805001.4966,
+				"totalSupply": 8999999999,
+				"approvedSupply": true,
+				"firstSeen": 1496361600000,
+				"listedAt": 1496361600,
+				"change": 0.97,
+				"rank": 30,
+				"history": [
+					"0.1108712295",
+					"0.1104356407",
+					"0.1104738029",
+					"0.1108661211",
+					"0.110392642",
+					"0.1105055168",
+					"0.1104116276",
+					"0.1101604407",
+					"0.1102728543",
+					"0.1105945605",
+					"0.1115228767",
+					"0.1128412652",
+					"0.1137214841",
+					"0.1131619267",
+					"0.1125549069",
+					"0.1128805541",
+					"0.1128293931",
+					"0.1125699699",
+					"0.1126050909",
+					"0.1123910557",
+					"0.1120725471",
+					"0.1121811942",
+					"0.1120704515",
+					"0.1110362577",
+					"0.1112008966",
+					"0.1116142925",
+					"0.1119468581"
+				],
+				"allTimeHigh": {
+					"price": "1.80823794274015",
+					"timestamp": 1515110400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 12,
+				"uuid": "LtWwuVANwRzV_",
+				"slug": "iota-miota",
+				"symbol": "MIOTA",
+				"name": "IOTA",
+				"description": "<p>IOTA (MIOTA) is a cryptocurrency focussing on the internet of things. By using a tangle instead of a blockchain, it achieves a high level of transaction throughput. Besides, the network doesn't charge transaction fees, which makes microtransactions a reality.</p>\n<h3>The goal of Iota</h3>\n<p>IOTA’s goal is to establish a digital ledger technology (DLT) for the Internet of Things (IoT). Their vision contains three fundamental parts. The first is scalability: process a substantial number of transactions per second across a large network of nodes, with fast confirmation times. The second is lightweight: low-power devices should be able to directly participate in the network. And the third is feeless: sending transactions should not require payment of network fees.</p>\n<h3>Who started Iota</h3>\n<p>In 2015, IOTA was founded by David Sonstebo, Sergey Ivancheglo, Dominik Schiener, and Dr. Serguei Popov. IOTA is controlled by the IOTA Foundation, which is a non-profit dedicated to developing the technology and maintaining it license-free for all developers to work with.</p>",
+				"color": "#000",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/H1IQ9Bdd-/miota.svg",
+				"websiteUrl": "http://iota.org/",
+				"socials": [
+					{
+						"name": "iotatoken",
+						"url": "https://twitter.com/iotatoken",
+						"type": "twitter"
+					},
+					{
+						"name": "iotatangle",
+						"url": "https://t.me/iotatangle",
+						"type": "telegram"
+					},
+					{
+						"name": "r/iota",
+						"url": "https://www.reddit.com/r/iota/",
+						"type": "reddit"
+					},
+					{
+						"name": "Medium",
+						"url": "https://blog.iota.org/",
+						"type": "medium"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=1216479.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/iotatoken/",
+						"type": "facebook"
+					},
+					{
+						"name": "iotaledger",
+						"url": "https://github.com/iotaledger",
+						"type": "github"
+					}
+				],
+				"links": [
+					{ "name": "iota.org", "type": "website", "url": "http://iota.org/" },
+					{
+						"name": "iotatoken",
+						"url": "https://twitter.com/iotatoken",
+						"type": "twitter"
+					},
+					{
+						"name": "iotatangle",
+						"url": "https://t.me/iotatangle",
+						"type": "telegram"
+					},
+					{
+						"name": "r/iota",
+						"url": "https://www.reddit.com/r/iota/",
+						"type": "reddit"
+					},
+					{
+						"name": "Medium",
+						"url": "https://blog.iota.org/",
+						"type": "medium"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=1216479.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/iotatoken/",
+						"type": "facebook"
+					},
+					{
+						"name": "iotaledger",
+						"url": "https://github.com/iotaledger",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 64,
+				"numberOfExchanges": 21,
+				"type": "coin",
+				"volume": 5466172,
+				"marketCap": 758773219,
+				"price": "0.2729861315",
+				"circulatingSupply": 2779530283,
+				"totalSupply": 2779530283,
+				"approvedSupply": true,
+				"firstSeen": 1497364209000,
+				"listedAt": 1497364209,
+				"change": 1.29,
+				"rank": 31,
+				"history": [
+					"0.2695213736",
+					"0.2682420692",
+					"0.2673041563",
+					"0.2672190969",
+					"0.2674371862",
+					"0.2687210662",
+					"0.2689509222",
+					"0.2689338808",
+					"0.2704822679",
+					"0.2742733411",
+					"0.276145426",
+					"0.2774096002",
+					"0.2790392722",
+					"0.2779645871",
+					"0.2782387026",
+					"0.2779478158",
+					"0.2770321234",
+					"0.2764505562",
+					"0.275615441",
+					"0.2755588148",
+					"0.277557376",
+					"0.2781041686",
+					"0.2768301866",
+					"0.2754263497",
+					"0.2747688166",
+					"0.2733510064",
+					"0.2729861315"
+				],
+				"allTimeHigh": {
+					"price": "5.773849630683582",
+					"timestamp": 1513641600000
+				},
+				"penalty": false
+			},
+			{
+				"id": 13,
+				"uuid": "C9DwH-T7MEGmo",
+				"slug": "dash-dash",
+				"symbol": "DASH",
+				"name": "Dash",
+				"description": "<p>Dash (DASH) is ‘digital cash’ that works like regular cash, allowing you to exchange your money at a highly secured open-source peer-to-peer network. It wants to enable the user to purchase items online or in-stores, without going through a central authority. Dash is based on a decentralized peer-to-peer network, and secured by strong cryptography. Dash describes itself as portable, inexpensive, divisible, and fast digital cash for both the internet and everyday life. Dash is an open protocol not under the control of any single entity. Anyone can write software to transact on the Dash network without requiring the permission of a central authority. Dash only asks a small fee to prevent spam attacks.</p>\n<h3>The goal of Dash</h3>\n<p>Dash is used around the world as a practical alternative to cash and credit cards, low fees and fast transactions. It is also meant as s solution in the international remittances market. It is particularly popular in regions where technical access barriers exist to traditional payment systems, or where hyperinflation has made existing currency impractical to use.</p>\n<h3>Who started Dash</h3>\n<p>Dash was launched in 2014 by founder Evan Duffield. The project is based on the Bitcoin project, mainly focussing on speed and fungibility. It aims to be a practical alternative to cash, both online and at the point of sale in shops and restaurants.</p>",
+				"color": "#1c75bc",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/PyCmduSxt/Dash-D-white_on_blue_circle.svg",
+				"websiteUrl": "https://www.dash.org/",
+				"socials": [
+					{
+						"name": "dashpay",
+						"url": "https://twitter.com/dashpay",
+						"type": "twitter"
+					},
+					{
+						"name": "dash_chat",
+						"url": "https://t.me/dash_chat",
+						"type": "telegram"
+					},
+					{
+						"name": "r/dashpay",
+						"url": "https://www.reddit.com/r/dashpay",
+						"type": "reddit"
+					},
+					{
+						"name": "Discord",
+						"url": "https://discord.gg/9z8zx5j",
+						"type": "discord"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=421615.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/ucazd2v9yx4a4is2_-unodka",
+						"type": "youtube"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://facebook.com/dashpay",
+						"type": "facebook"
+					},
+					{
+						"name": "dashpay/dash",
+						"url": "https://github.com/dashpay/dash",
+						"type": "github"
+					}
+				],
+				"links": [
+					{
+						"name": "www.dash.org",
+						"type": "website",
+						"url": "https://www.dash.org/"
+					},
+					{
+						"name": "Staking guide",
+						"url": "https://www.stakingrewards.com/asset/dash",
+						"type": "website"
+					},
+					{
+						"name": "dashpay",
+						"url": "https://twitter.com/dashpay",
+						"type": "twitter"
+					},
+					{
+						"name": "dash_chat",
+						"url": "https://t.me/dash_chat",
+						"type": "telegram"
+					},
+					{
+						"name": "r/dashpay",
+						"url": "https://www.reddit.com/r/dashpay",
+						"type": "reddit"
+					},
+					{
+						"name": "Discord",
+						"url": "https://discord.gg/9z8zx5j",
+						"type": "discord"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=421615.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/ucazd2v9yx4a4is2_-unodka",
+						"type": "youtube"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://facebook.com/dashpay",
+						"type": "facebook"
+					},
+					{
+						"name": "dashpay/dash",
+						"url": "https://github.com/dashpay/dash",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 661,
+				"numberOfExchanges": 164,
+				"type": "coin",
+				"volume": 462188542,
+				"marketCap": 734496216,
+				"price": "75.1993629806",
+				"circulatingSupply": 9767319.64911404,
+				"totalSupply": 9767319.64911404,
+				"approvedSupply": true,
+				"firstSeen": 1391817600000,
+				"listedAt": 1391817600,
+				"change": 12.41,
+				"rank": 32,
+				"history": [
+					"66.8980687432",
+					"66.740913314",
+					"66.5026316695",
+					"66.565592781",
+					"66.4406009649",
+					"66.7116756921",
+					"66.7834355473",
+					"66.6419693147",
+					"66.821382508",
+					"66.7161954777",
+					"66.803737663",
+					"67.0652396054",
+					"67.8147888151",
+					"69.04535518",
+					"70.7000102257",
+					"71.2659580341",
+					"73.2280930259",
+					"75.1772745742",
+					"76.2130404209",
+					"75.658958443",
+					"75.9270311011",
+					"75.5407252556",
+					"74.8446893641",
+					"74.3028608439",
+					"74.4970161619",
+					"74.9165805158",
+					"75.1993629806"
+				],
+				"allTimeHigh": {
+					"price": "1482.457721896753",
+					"timestamp": 1513900800000
+				},
+				"penalty": false
+			},
+			{
+				"id": 19,
+				"uuid": "FEbS54wxo4oIl",
+				"slug": "vechain-vet",
+				"symbol": "VET",
+				"name": "VeChain",
+				"description": "<p>VeChain (VET) is a blockchain platform focussing on creating an ecosystem that can be used by enterprises for products and information. The ecosystem enables transparency and symmetrical information. The VeChain token is called VET and serves as fuel in the VeChain platform.</p>\n<h3>The goal of VeChain</h3>\n<p>The project is built on top of the VeChainThor public blockchain and wants to build a trust-free and distributed business ecosystem, which is self-circulating and scalable. VeChain strives to provide resources to anyone who wants to solve real-world economic problems. The VeChain platform wants to create market transparency to authorized stakeholders, by providing a 360-degree view of information linked to a product and its business processes, like storage, transportation, and supply.</p>\n<h3>Who started VeChain</h3>\n<p>In 2015, VeChain was founded by Sunny Lu, former CIO of Louis Vuitton China. The project started as a subsidiary of Bitse, one of China’s largest blockchain companies. Initially, the VEN token functioned on the Ethereum blockchain. VeChain transitioned onto its own blockchain and was rebranded in 2018. As part of the rebrand, the VEN blockchain became the VeChainThor (VET) blockchain.</p>",
+				"color": "#4bc0fa",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/B1_TDu9Dm/VEN.svg",
+				"websiteUrl": "https://www.vechain.com",
+				"socials": [
+					{
+						"name": "vechainofficial",
+						"url": "https://twitter.com/vechainofficial",
+						"type": "twitter"
+					},
+					{
+						"name": "vechain_official_english",
+						"url": "https://t.me/vechain_official_english",
+						"type": "telegram"
+					},
+					{
+						"name": "Discord",
+						"url": "https://discordapp.com/invite/hhvxvux",
+						"type": "discord"
+					},
+					{
+						"name": "@vechainofficial",
+						"url": "https://medium.com/@vechainofficial",
+						"type": "medium"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/ucqkewpu5hkel4o3sxlj3n5a",
+						"type": "youtube"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/vechain/",
+						"type": "facebook"
+					},
+					{
+						"name": "vechain/thor",
+						"url": "https://github.com/vechain/thor",
+						"type": "github"
+					}
+				],
+				"links": [
+					{
+						"name": "www.vechain.com",
+						"type": "website",
+						"url": "https://www.vechain.com"
+					},
+					{
+						"name": "vechainofficial",
+						"url": "https://twitter.com/vechainofficial",
+						"type": "twitter"
+					},
+					{
+						"name": "vechain_official_english",
+						"url": "https://t.me/vechain_official_english",
+						"type": "telegram"
+					},
+					{
+						"name": "Discord",
+						"url": "https://discordapp.com/invite/hhvxvux",
+						"type": "discord"
+					},
+					{
+						"name": "@vechainofficial",
+						"url": "https://medium.com/@vechainofficial",
+						"type": "medium"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/ucqkewpu5hkel4o3sxlj3n5a",
+						"type": "youtube"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/vechain/",
+						"type": "facebook"
+					},
+					{
+						"name": "vechain/thor",
+						"url": "https://github.com/vechain/thor",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 141,
+				"numberOfExchanges": 45,
+				"type": "coin",
+				"volume": 96346837,
+				"marketCap": 732726337,
+				"price": "0.0112987089",
+				"circulatingSupply": 64850448123,
+				"totalSupply": 85985041177,
+				"approvedSupply": true,
+				"firstSeen": 1533427200000,
+				"listedAt": 1533427200,
+				"change": -1.04,
+				"rank": 33,
+				"history": [
+					"0.0114174649",
+					"0.0113686957",
+					"0.0113543363",
+					"0.011374675",
+					"0.0113586193",
+					"0.0114765378",
+					"0.0114283721",
+					"0.0113892421",
+					"0.011416963",
+					"0.0114240229",
+					"0.0114618479",
+					"0.0115389693",
+					"0.0116193853",
+					"0.0115743578",
+					"0.011699514",
+					"0.0116702302",
+					"0.0116425935",
+					"0.0115776572",
+					"0.0115185137",
+					"0.0114802176",
+					"0.0114713701",
+					"0.0113785807",
+					"0.01138814",
+					"0.0113168798",
+					"0.0113130904",
+					"0.0112841274",
+					"0.0112987089"
+				],
+				"allTimeHigh": {
+					"price": "0.021679357877631863",
+					"timestamp": 1596931200000
+				},
+				"penalty": false
+			},
+			{
+				"id": 227,
+				"uuid": "W835aIlO9Ngzn",
+				"slug": "aave-lend",
+				"symbol": "LEND",
+				"name": "Aave",
+				"description": "Aave is a decentralized lending platform, where anyone can lend or borrow, peer to peer, using an Ethereum smart contract. LEND is the token on Aave which provides discount on deployment fees. LEND runs on the Ethereum blockchain.\n",
+				"color": "#0bacc7",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/Hy3xgZHVz/lend.svg",
+				"websiteUrl": "https://ethlend.io/en/",
+				"socials": [],
+				"links": [
+					{ "name": "aave.com", "url": "https://aave.com/", "type": "website" },
+					{
+						"name": "Aave",
+						"url": "https://twitter.com/aaveaave",
+						"type": "twitter"
+					},
+					{
+						"name": "ethlend",
+						"url": "https://t.me/Aavesome",
+						"type": "telegram"
+					},
+					{
+						"name": "r/ethlend",
+						"url": "https://www.reddit.com/r/ethlend/",
+						"type": "reddit"
+					},
+					{
+						"name": "aave.com",
+						"url": "https://aave.com/discord",
+						"type": "discord"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=2089908.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "aave.aave",
+						"url": "https://www.instagram.com/aave.aave/",
+						"type": "instagram"
+					},
+					{
+						"name": "aave/aave-protocol",
+						"url": "https://github.com/aave/aave-protocol",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 109,
+				"numberOfExchanges": 59,
+				"type": "coin",
+				"volume": 11814653,
+				"marketCap": 670983367,
+				"price": "0.5170861128",
+				"circulatingSupply": 1297624033.2791421,
+				"totalSupply": 1299999941.7031682,
+				"approvedSupply": true,
+				"firstSeen": 1512086400000,
+				"listedAt": 1512086400,
+				"change": 0.23,
+				"rank": 34,
+				"history": [
+					"0.5158766725",
+					"0.5156975434",
+					"0.5159206315",
+					"0.5161047877",
+					"0.5156349316",
+					"0.5165368541",
+					"0.5164000685",
+					"0.5158695726",
+					"0.515608082",
+					"0.5153347336",
+					"0.5155582529",
+					"0.5158405858",
+					"0.5170703617",
+					"0.5169710569",
+					"0.5178292431",
+					"0.517993021",
+					"0.5179478622",
+					"0.5174717951",
+					"0.5174278917",
+					"0.5176015369",
+					"0.518004891",
+					"0.5179113908",
+					"0.5176067299",
+					"0.5175517513",
+					"0.517295868",
+					"0.5171374456",
+					"0.5170861128"
+				],
+				"allTimeHigh": {
+					"price": "0.828168800999843",
+					"timestamp": 1598400000000
+				},
+				"penalty": false
+			},
+			{
+				"id": 21,
+				"uuid": "aRGRWLf2RYNq4",
+				"slug": "zcash-zec",
+				"symbol": "ZEC",
+				"name": "Zcash",
+				"description": "<p>ZCash (ZEC) is a fully anonymous and decentralized blockchain and cryptocurrency. Transactions on its proof of work blockchain are untraceable because of zero-knowledge cryptography. It was created in response to, their words, bitcoin’s flaws. It uses the same algorithm as bitcoin but then in combination with semi-transparent processing, to avoid the transparency of bitcoin. The user transaction data is revealed selectively.</p>\n<h3>The goal of ZCash</h3>\n<p>Zcash is developed to overcome bitcoin’s privacy “flaws” and uses zero-knowledge proofs to verify and validate transactions. ZCash’s blockchain aims to provide practical utility for businesses and large organizations interested in systems that combine the benefits of blockchain technology with privacy.</p>\n<h3>Who started ZCash</h3>\n<p>In 2016, ZCash was founded by Zooko Wilcox-O’Hearn in response to demands for an open financial system with added privacy features. Zcash’s roots lie in Zerocoin, which was developed in the 1980s; ZCash was initially launched as Zerocash back in 2014.</p>",
+				"color": "#000",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/rJrKiS_uZ/zec.svg",
+				"websiteUrl": "https://z.cash/",
+				"socials": [
+					{
+						"name": "zcashco",
+						"url": "https://twitter.com/zcashco",
+						"type": "twitter"
+					},
+					{
+						"name": "r/zec",
+						"url": "https://www.reddit.com/r/zec/",
+						"type": "reddit"
+					},
+					{
+						"name": "zcash",
+						"url": "https://github.com/zcash",
+						"type": "github"
+					}
+				],
+				"links": [
+					{ "name": "z.cash", "type": "website", "url": "https://z.cash/" },
+					{
+						"name": "electriccoinco",
+						"url": "https://twitter.com/electriccoinco",
+						"type": "twitter"
+					},
+					{
+						"name": "r/zec",
+						"url": "https://www.reddit.com/r/zec/",
+						"type": "reddit"
+					},
+					{
+						"name": "zcash",
+						"url": "https://github.com/zcash",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 385,
+				"numberOfExchanges": 121,
+				"type": "coin",
+				"volume": 200674560,
+				"marketCap": 669568763,
+				"price": "65.0802466757",
+				"circulatingSupply": 10288356.25,
+				"totalSupply": 10288356.25,
+				"approvedSupply": true,
+				"firstSeen": 1477612800000,
+				"listedAt": 1477612800,
+				"change": 2.21,
+				"rank": 35,
+				"history": [
+					"63.675639267",
+					"63.5063730078",
+					"62.680067302",
+					"62.5440848075",
+					"62.426242409",
+					"62.8063398099",
+					"62.8702594401",
+					"63.0969336242",
+					"63.8559150023",
+					"63.8853716736",
+					"64.2029026159",
+					"64.4892063886",
+					"64.5816281251",
+					"64.3993518572",
+					"64.9148189799",
+					"64.9782880726",
+					"64.8197340672",
+					"64.111256351",
+					"63.9052830994",
+					"63.7862792072",
+					"63.8418153649",
+					"63.8435529225",
+					"64.1095888032",
+					"64.2573380323",
+					"64.5663269521",
+					"64.8622548286",
+					"65.0802466757"
+				],
+				"allTimeHigh": {
+					"price": "5000.000001019066",
+					"timestamp": 1477612800000
+				},
+				"penalty": false
+			},
+			{
+				"id": 96,
+				"uuid": "B42IRxNtoYmwK",
+				"slug": "thetatoken-theta",
+				"symbol": "THETA",
+				"name": "Theta Token",
+				"description": "Theta Token is a token on the Theta blockchain, which aims to become a decentralized streaming network. Theta Tokens are used to encourage users to share their memory and bandwidth, in order to improve the quality of stream delivery and reduce the costs of bandwidth. Theta Token runs on the Ethereum blockchain and can be 1:1 exchanged for native Theta Token at launch.\r\n",
+				"color": "#1b1f2a",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/HJHg2k9Lf/theta.svg",
+				"websiteUrl": "https://www.thetatoken.org/",
+				"socials": [
+					{
+						"name": "theta-network",
+						"url": "https://medium.com/theta-network",
+						"type": "medium"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/thetanetwork/",
+						"type": "facebook"
+					},
+					{
+						"name": "theta_network",
+						"url": "https://twitter.com/theta_network",
+						"type": "twitter"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/uctlbcj0nqzr9lrahhccopgq",
+						"type": "youtube"
+					},
+					{
+						"name": "r/thetatoken",
+						"url": "https://www.reddit.com/r/thetatoken/",
+						"type": "reddit"
+					},
+					{
+						"name": "thetanetwork",
+						"url": "https://t.me/thetanetwork",
+						"type": "telegram"
+					},
+					{
+						"name": "thetatoken",
+						"url": "https://github.com/thetatoken",
+						"type": "github"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=2451089.0",
+						"type": "bitcointalk"
+					}
+				],
+				"links": [
+					{
+						"name": "theta-network",
+						"url": "https://medium.com/theta-network",
+						"type": "medium"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/thetanetwork/",
+						"type": "facebook"
+					},
+					{
+						"name": "theta_network",
+						"url": "https://twitter.com/theta_network",
+						"type": "twitter"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/uctlbcj0nqzr9lrahhccopgq",
+						"type": "youtube"
+					},
+					{
+						"name": "r/thetatoken",
+						"url": "https://www.reddit.com/r/thetatoken/",
+						"type": "reddit"
+					},
+					{
+						"name": "thetanetwork",
+						"url": "https://t.me/thetanetwork",
+						"type": "telegram"
+					},
+					{
+						"name": "thetatoken",
+						"url": "https://github.com/thetatoken",
+						"type": "github"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=2451089.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "www.thetatoken.org",
+						"type": "website",
+						"url": "https://www.thetatoken.org/"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 72,
+				"numberOfExchanges": 32,
+				"type": "coin",
+				"volume": 23451349,
+				"marketCap": 638311284,
+				"price": "0.6383112843",
+				"circulatingSupply": 1000000000,
+				"totalSupply": 1000000000,
+				"approvedSupply": true,
+				"firstSeen": 1516233600000,
+				"listedAt": 1516233600,
+				"change": -2.39,
+				"rank": 36,
+				"history": [
+					"0.6539132069",
+					"0.6483025409",
+					"0.6432056177",
+					"0.6449829616",
+					"0.6464169116",
+					"0.6489428409",
+					"0.6448105872",
+					"0.6403210972",
+					"0.6477242282",
+					"0.6559903426",
+					"0.6574576688",
+					"0.6596274097",
+					"0.660558343",
+					"0.649662623",
+					"0.6475613733",
+					"0.6445416303",
+					"0.642183163",
+					"0.6384255917",
+					"0.6381350033",
+					"0.6361819822",
+					"0.6385469807",
+					"0.6309097535",
+					"0.6309032406",
+					"0.6299495623",
+					"0.6353489215",
+					"0.6348864718",
+					"0.6383112843"
+				],
+				"allTimeHigh": {
+					"price": "0.7583150806039088",
+					"timestamp": 1601769600000
+				},
+				"penalty": false
+			},
+			{
+				"id": 16,
+				"uuid": "hnfQfsYfeIGUQ",
+				"slug": "ethereumclassic-etc",
+				"symbol": "ETC",
+				"name": "Ethereum Classic",
+				"description": "<p>Ethereum Classic (ETC)  is a decentralized smart contracts platform which is a continuation of the Ethereum blockchain. Ethereum Classic preserves original history, excluding external interference and altered transactions. Applications are run exactly as programmed without the possibility of censorship, downtime, or third-party interference. The distributed network consists of a blockchain ledger, native cryptocurrency, and robust ecosystem of on-chain applications and services.</p>\n<h3>The goal of Ethereum Classic</h3>\n<p>The goal of the original project Ethereum was to expand the use cases for cryptocurrencies to applications beyond money. Ethereum enables developers to create new cryptocurrencies and decentralized applications running on top of its blockchain. Ethereum Classic aims to continue this vision. It differs from Ethereum in its technical decisions, made by the developers.</p>\n<h3>Who started Ethereum Classic</h3>\n<p>It’s difficult to say who created Ethereum Classic. The developer most associated with the decision to continue maintaining the original Ethereum is the anonymous Arvicco. Some say, because much of this code is from the original Ethereum developers, that Ethereum’s founder Vitalik Buterin, and his team can be seen as the ones responsible for most of Ethereum Classic’s technical innovations.</p>",
+				"color": "#699070",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/rJfyor__W/etc.svg",
+				"websiteUrl": "https://ethereumclassic.github.io/",
+				"socials": [],
+				"links": [
+					{
+						"name": "ethereumclassic.github.io",
+						"type": "website",
+						"url": "https://ethereumclassic.github.io/"
+					},
+					{
+						"name": "twitter.com",
+						"url": "twitter.com/eth_classic",
+						"type": "twitter"
+					},
+					{
+						"name": "EthereumClassic",
+						"url": "https://www.reddit.com/r/EthereumClassic/",
+						"type": "reddit"
+					},
+					{
+						"name": "discord.com",
+						"url": "https://discord.com/invite/HW4GckH",
+						"type": "discord"
+					},
+					{
+						"name": "ethereumclassic",
+						"url": "https://github.com/ethereumclassic",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 363,
+				"numberOfExchanges": 134,
+				"type": "coin",
+				"volume": 219981862,
+				"marketCap": 611152100,
+				"price": "5.2543613238",
+				"circulatingSupply": 116313299,
+				"totalSupply": 107988299,
+				"approvedSupply": true,
+				"firstSeen": 1469577600000,
+				"listedAt": 1469577600,
+				"change": 1.22,
+				"rank": 37,
+				"history": [
+					"5.1909159964",
+					"5.185160908",
+					"5.1889402784",
+					"5.192480899",
+					"5.1893383916",
+					"5.2149081455",
+					"5.2087374193",
+					"5.2071528384",
+					"5.2194011632",
+					"5.216213041",
+					"5.220574355",
+					"5.2254529042",
+					"5.2515028114",
+					"5.2641901888",
+					"5.2759422785",
+					"5.2775416457",
+					"5.275430079",
+					"5.2568677662",
+					"5.2376961178",
+					"5.2174912744",
+					"5.2213938034",
+					"5.218700607",
+					"5.2250855173",
+					"5.2297968502",
+					"5.2392202788",
+					"5.2479166895",
+					"5.2543613238"
+				],
+				"allTimeHigh": {
+					"price": "43.29748020169307",
+					"timestamp": 1515974400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 68589,
+				"uuid": "MoTuySvg7",
+				"slug": "multi-collateraldai-dai",
+				"symbol": "DAI",
+				"name": "Multi-Collateral Dai",
+				"description": "Dai (DAI) is a stable, decentralized currency. It's created via the Makers (MKR) Dai Stablecoin System. It uses margin trading to respond to changing market conditions and preserve its value against the major world currencies. Unlike other stablecoins whose value is backed directly by USD, it’s backed by crypto collaterals that can be viewed publicly on the Ethereum blockchain.",
+				"color": null,
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/mAZ_7LwOE/mutli-collateral-dai.svg",
+				"websiteUrl": null,
+				"socials": [],
+				"links": [
+					{
+						"name": "makerdao.com",
+						"url": "https://makerdao.com/en/",
+						"type": "website"
+					},
+					{
+						"name": "MakerDAO",
+						"url": "https://twitter.com/MakerDAO",
+						"type": "twitter"
+					},
+					{
+						"name": "makerdaoOfficial",
+						"url": "https://t.me/makerdaoOfficial",
+						"type": "telegram"
+					},
+					{
+						"name": "MakerDAO",
+						"url": "https://www.reddit.com/r/MakerDAO/",
+						"type": "reddit"
+					},
+					{
+						"name": "www.youtube.com",
+						"url": "https://www.youtube.com/MakerDAO",
+						"type": "youtube"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 155,
+				"numberOfExchanges": 40,
+				"type": "coin",
+				"volume": 31961263,
+				"marketCap": 608394679,
+				"price": "1.008472972",
+				"circulatingSupply": 603283078.280833,
+				"totalSupply": 603283298.0620624,
+				"approvedSupply": true,
+				"firstSeen": 1585574040000,
+				"listedAt": 1585574040,
+				"change": 0.13,
+				"rank": 38,
+				"history": [
+					"1.007203771",
+					"1.0073660367",
+					"1.0077545924",
+					"1.0081029381",
+					"1.0084888944",
+					"1.0101324284",
+					"1.0098746748",
+					"1.0090259988",
+					"1.008815416",
+					"1.00943685",
+					"1.0088420692",
+					"1.0081723816",
+					"1.009157712",
+					"1.0073391673",
+					"1.007663114",
+					"1.0077179347",
+					"1.006997965",
+					"1.0067908416",
+					"1.0074996021",
+					"1.0072474526",
+					"1.0069522159",
+					"1.0069383239",
+					"1.0077696457",
+					"1.0082900524",
+					"1.0083988469",
+					"1.0085075623",
+					"1.008472972"
+				],
+				"allTimeHigh": {
+					"price": "1.034864103293362",
+					"timestamp": 1599782400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 22,
+				"uuid": "qFakph2rpuMOL",
+				"slug": "maker-mkr",
+				"symbol": "MKR",
+				"name": "Maker",
+				"description": "<p>Maker (MKR) is a token on the Ethereum blockchain with the aim to govern, secure and support the Dai Stable Coin system (DCS). It is a smart contract platform that controls and sells Dai; Maker stabilizes the value of Dai to one U.S. dollar using external market mechanisms and economic incentives. Without the need of using a third centralized party, Maker aims to offer a transparent stablecoin system that is operating on the Ethereum blockchain. The Maker Platform has two coins: Makercoin (MKR) and Dai (DAI); Dai is a stable coin that is used for payments, savings, or collateral.</p>\n<h3>The goal of Maker</h3>\n<p>Maker has three important functions on the Maker Platform. The first is utility; you can only use Maker to pay the fees accumulated on Customer Data Platforms (CPDs) that generate Dai in the Maker system. When someone pays a fee, a Maker coin is burned from the supply, which will then decrease. The second function is governance; holders use Maker to vote for the risk management and logistics of the Maker system. And the third is recapitalization resource. If parts of the collateral portfolio become under-collateralized, the system immediately creates new Maker tokens and sells them. This gains money to capitalize the shortfall of value in the system and brings the entire Maker system back from insolvency.</p>",
+				"color": "#1abc9c",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/sjHfS7jCS/mkrdao.svg",
+				"websiteUrl": "https://makerdao.com",
+				"socials": [],
+				"links": [
+					{
+						"name": "makerdao.com",
+						"type": "website",
+						"url": "https://makerdao.com"
+					},
+					{
+						"name": "r/makerdao",
+						"url": "https://www.reddit.com/r/makerdao/",
+						"type": "reddit"
+					},
+					{
+						"name": "@makerdao",
+						"url": "https://medium.com/@makerdao",
+						"type": "medium"
+					},
+					{
+						"name": "makerdao",
+						"url": "https://github.com/makerdao/",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 189,
+				"numberOfExchanges": 85,
+				"type": "coin",
+				"volume": 11499497,
+				"marketCap": 518891120,
+				"price": "569.8496218739",
+				"circulatingSupply": 910575.5269550479,
+				"totalSupply": 1004131.7157306884,
+				"approvedSupply": true,
+				"firstSeen": 1502236800000,
+				"listedAt": 1502236800,
+				"change": -0.48,
+				"rank": 39,
+				"history": [
+					"572.5898842816",
+					"569.0441175327",
+					"568.1204857118",
+					"570.2396524416",
+					"569.849362626",
+					"573.5428874743",
+					"572.5157494088",
+					"570.810207993",
+					"569.7174637545",
+					"569.2716142488",
+					"570.4133420576",
+					"575.2196958531",
+					"577.2825115638",
+					"577.9313466172",
+					"580.4969367081",
+					"580.7607089708",
+					"576.9496358193",
+					"573.8422568163",
+					"571.5145256971",
+					"573.228603854",
+					"572.7792867357",
+					"570.3798922726",
+					"569.9998120677",
+					"569.1578680112",
+					"568.5976397491",
+					"569.8420138812",
+					"569.8496218739"
+				],
+				"allTimeHigh": {
+					"price": "4383.449996185815",
+					"timestamp": 1502841600000
+				},
+				"penalty": false
+			},
+			{
+				"id": 74500,
+				"uuid": "ymQub4fuB",
+				"slug": "filecoin-fil",
+				"symbol": "FIL",
+				"name": "Filecoin",
+				"description": null,
+				"color": "#0090ff",
+				"iconType": "pixel",
+				"iconUrl": "https://cdn.coinranking.com/vUmvv-IQA/FIL3-filecoin.svg?size=48x48",
+				"websiteUrl": null,
+				"socials": [],
+				"links": [
+					{
+						"name": "WeChat",
+						"url": "https://weixin.qq.com/r/1xz54Y-EctINrcuC90nF",
+						"type": "wechat"
+					},
+					{
+						"name": "discuss.filecoin.io",
+						"url": "https://discuss.filecoin.io/",
+						"type": "website"
+					},
+					{
+						"name": "riot.im",
+						"url": "https://riot.im/app/#/group/+filecoin:matrix.org",
+						"type": "website"
+					},
+					{
+						"name": "Filecoin",
+						"url": "https://twitter.com/Filecoin",
+						"type": "twitter"
+					},
+					{
+						"name": "filecoin",
+						"url": "https://www.reddit.com/r/filecoin",
+						"type": "reddit"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 63,
+				"numberOfExchanges": 38,
+				"type": "coin",
+				"volume": 171999357,
+				"marketCap": 496189114,
+				"price": "32.8495551389",
+				"circulatingSupply": 15104896,
+				"totalSupply": 15104896,
+				"approvedSupply": true,
+				"firstSeen": 1602840240000,
+				"listedAt": 1602839473,
+				"change": 7.76,
+				"rank": 40,
+				"history": [
+					"30.4853058444",
+					"30.4590928004",
+					"30.9086786089",
+					"31.1872405754",
+					"32.2811021788",
+					"32.7910557387",
+					"31.619703982",
+					"31.0916874926",
+					"30.8669151097",
+					"31.1856406593",
+					"31.6142293551",
+					"32.2278512293",
+					"31.929994138",
+					"32.1139730429",
+					"32.6919042019",
+					"32.7537315465",
+					"32.2866064459",
+					"32.2971454089",
+					"33.1265932804",
+					"33.2754658733",
+					"33.995974313",
+					"34.424566001",
+					"33.9052479458",
+					"33.6888036808",
+					"33.2447345651",
+					"32.9406071103",
+					"32.8495551389"
+				],
+				"allTimeHigh": {
+					"price": "50.33272963287289",
+					"timestamp": 1602806400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 24,
+				"uuid": "_tpssiAXwrHfr",
+				"slug": "omisego-omg",
+				"symbol": "OMG",
+				"name": "OmiseGo",
+				"description": "OmiseGo is a proof of stake blockchain platform built for financial transactions of any kind. The platform is connected to the Ethereum network and features decentralized exchange of both digital assets and fiat.",
+				"color": "#1a56f0",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/BJGUoHu_Z/omg.svg",
+				"websiteUrl": "https://omg.omise.co/",
+				"socials": [
+					{
+						"name": "omise_go",
+						"url": "https://twitter.com/omise_go",
+						"type": "twitter"
+					},
+					{
+						"name": "r/omise_go",
+						"url": "https://www.reddit.com/r/omise_go/",
+						"type": "reddit"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/ucqgyg8ie6vyhcfddjms_epg",
+						"type": "youtube"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/omisego/",
+						"type": "facebook"
+					}
+				],
+				"links": [
+					{
+						"name": "omisego.co",
+						"url": "https://omisego.co/",
+						"type": "website"
+					},
+					{
+						"name": "omise_go",
+						"url": "https://twitter.com/omgnetworkhq",
+						"type": "twitter"
+					},
+					{
+						"name": "r/omise_go",
+						"url": "https://www.reddit.com/r/omise_go/",
+						"type": "reddit"
+					},
+					{
+						"name": "Youtube",
+						"url": "https://www.youtube.com/channel/ucqgyg8ie6vyhcfddjms_epg",
+						"type": "youtube"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/omisego/",
+						"type": "facebook"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 393,
+				"numberOfExchanges": 148,
+				"type": "coin",
+				"volume": 148231088,
+				"marketCap": 469183392,
+				"price": "3.3457742849",
+				"circulatingSupply": 140231633.08995816,
+				"totalSupply": 140245398.24513277,
+				"approvedSupply": true,
+				"firstSeen": 1499990400000,
+				"listedAt": 1499990400,
+				"change": -0.06,
+				"rank": 41,
+				"history": [
+					"3.3476989418",
+					"3.3460821671",
+					"3.327347862",
+					"3.3168968733",
+					"3.3053751243",
+					"3.3129211943",
+					"3.2948035439",
+					"3.2749367758",
+					"3.2671123463",
+					"3.2748810281",
+					"3.3088954744",
+					"3.3503634463",
+					"3.3984311063",
+					"3.403958096",
+					"3.4400824578",
+					"3.4757413541",
+					"3.4404299509",
+					"3.4228877432",
+					"3.4115071032",
+					"3.3842156636",
+					"3.3726009475",
+					"3.3387201812",
+					"3.336411626",
+					"3.3515102475",
+					"3.3500690465",
+					"3.3457568246",
+					"3.3457742849"
+				],
+				"allTimeHigh": {
+					"price": "24.84309748019746",
+					"timestamp": 1515456000000
+				},
+				"penalty": false
+			},
+			{
+				"id": 69380,
+				"uuid": "6Cnl5FOCZ",
+				"slug": "uma-uma",
+				"symbol": "UMA",
+				"name": "UMA",
+				"description": "UMA (Universal Market Access) is a blockchain protocol designed for the trading and execution of financial contracts. The platform enables the creation of synthetic assets that can track the price of anything. UMA is built on the Ethereum blockchain.",
+				"color": null,
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/VD6Xa_BZd/uma-protocol.svg",
+				"websiteUrl": null,
+				"socials": [],
+				"links": [
+					{
+						"name": "umaproject.org",
+						"url": "https://umaproject.org/",
+						"type": "website"
+					},
+					{
+						"name": "UMAprotocol",
+						"url": "https://twitter.com/UMAprotocol",
+						"type": "twitter"
+					},
+					{
+						"name": "medium.com",
+						"url": "https://medium.com/uma-project",
+						"type": "medium"
+					},
+					{
+						"name": "umaprotocol",
+						"url": "https://github.com/umaprotocol",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 62,
+				"numberOfExchanges": 34,
+				"type": "coin",
+				"volume": 20166758,
+				"marketCap": 458477571,
+				"price": "8.2932804074",
+				"circulatingSupply": 55283018.077620395,
+				"totalSupply": 101072792.9635868,
+				"approvedSupply": true,
+				"firstSeen": 1588608060000,
+				"listedAt": 1588608060,
+				"change": -8.05,
+				"rank": 42,
+				"history": [
+					"9.0197038705",
+					"8.9051150764",
+					"8.8164492313",
+					"8.6993657637",
+					"8.6222536217",
+					"8.5802858842",
+					"8.5040190466",
+					"8.5004905662",
+					"8.8175310519",
+					"8.9739939628",
+					"8.9401545548",
+					"8.8443308475",
+					"8.792877771",
+					"8.7697460882",
+					"8.6869033275",
+					"8.585921278",
+					"8.6535248715",
+					"8.6265478397",
+					"8.5746233475",
+					"8.5617527923",
+					"8.5707350322",
+					"8.5556211219",
+					"8.5070966794",
+					"8.5232647221",
+					"8.4300388506",
+					"8.3141863503",
+					"8.2932804074"
+				],
+				"allTimeHigh": {
+					"price": "24.25971660465927",
+					"timestamp": 1598918400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 4303,
+				"uuid": "rk5XwL6mIjUDp",
+				"slug": "celsiusnetwork-cel",
+				"symbol": "CEL",
+				"name": "Celsius Network",
+				"description": "Celsius (CEL) is a utility token designed to transfer value throughout the Celsius platform.",
+				"color": null,
+				"iconType": "pixel",
+				"iconUrl": "https://cdn.coinranking.com/XPU7TeCYD/New-CEL.png",
+				"websiteUrl": null,
+				"socials": [
+					{
+						"name": "celsiusnetwork",
+						"url": "https://twitter.com/celsiusnetwork",
+						"type": "twitter"
+					},
+					{
+						"name": "celsiusnetwork",
+						"url": "https://t.me/celsiusnetwork",
+						"type": "telegram"
+					},
+					{
+						"name": "@celsiusnetwork",
+						"url": "https://medium.com/@celsiusnetwork",
+						"type": "medium"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=2968678",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/celsiusnetwork/",
+						"type": "facebook"
+					},
+					{
+						"name": "celsiusnetwork",
+						"url": "https://github.com/celsiusnetwork",
+						"type": "github"
+					}
+				],
+				"links": [
+					{
+						"name": "celsius.network",
+						"url": "https://celsius.network/",
+						"type": "website"
+					},
+					{
+						"name": "celsiusnetwork",
+						"url": "https://twitter.com/celsiusnetwork",
+						"type": "twitter"
+					},
+					{
+						"name": "celsiusnetwork",
+						"url": "https://t.me/celsiusnetwork",
+						"type": "telegram"
+					},
+					{
+						"name": "CelsiusNetwork",
+						"url": "https://www.reddit.com/r/CelsiusNetwork/",
+						"type": "reddit"
+					},
+					{
+						"name": "celsiusnetwork",
+						"url": "https://medium.com/@celsiusnetwork",
+						"type": "medium"
+					},
+					{
+						"name": "Medium",
+						"url": "https://link.medium.com/sTpyFR5Y43",
+						"type": "medium"
+					},
+					{
+						"name": "BitcoinTalk",
+						"url": "https://bitcointalk.org/index.php?topic=2968678",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "YouTube",
+						"url": "https://www.youtube.com/channel/UC3yZY7UVs-zPKBuyNuPinbQ",
+						"type": "youtube"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/celsiusnetwork/",
+						"type": "facebook"
+					},
+					{
+						"name": "celsiusnetwork",
+						"url": "https://instagram.com/celsiusnetwork?igshid=1goal5b75tu9n",
+						"type": "instagram"
+					},
+					{
+						"name": "celsiusnetwork",
+						"url": "https://github.com/celsiusnetwork",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 23,
+				"numberOfExchanges": 14,
+				"type": "coin",
+				"volume": 3101768,
+				"marketCap": 440202054,
+				"price": "1.2197722722",
+				"circulatingSupply": 360888719.78040004,
+				"totalSupply": 695658160.9671,
+				"approvedSupply": true,
+				"firstSeen": 1531958400000,
+				"listedAt": 1531958400,
+				"change": 0.29,
+				"rank": 43,
+				"history": [
+					"1.2162182259",
+					"1.2146679854",
+					"1.2171217945",
+					"1.2162356919",
+					"1.213526116",
+					"1.2160515952",
+					"1.2163753732",
+					"1.2116079305",
+					"1.208916743",
+					"1.2078681173",
+					"1.2098648474",
+					"1.2162826551",
+					"1.2179421477",
+					"1.2140287056",
+					"1.2201444227",
+					"1.2169124442",
+					"1.2079057156",
+					"1.1932662403",
+					"1.2033567757",
+					"1.2082575367",
+					"1.2130174244",
+					"1.217126554",
+					"1.2158908363",
+					"1.2255064791",
+					"1.2247981971",
+					"1.2237073037",
+					"1.2197722722"
+				],
+				"allTimeHigh": {
+					"price": "1.3521296394309796",
+					"timestamp": 1602288000000
+				},
+				"penalty": false
+			},
+			{
+				"id": 71246,
+				"uuid": "dYuh_N0n1",
+				"slug": "yearnfinance-yfi",
+				"symbol": "YFI",
+				"name": "yearn.finance",
+				"description": null,
+				"color": null,
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/bl3ndRz-F/yearn[1].svg",
+				"websiteUrl": null,
+				"socials": [],
+				"links": [
+					{
+						"name": "gov.yearn.finance",
+						"url": "https://gov.yearn.finance/",
+						"type": "website"
+					},
+					{
+						"name": "iearnfinance",
+						"url": "https://twitter.com/iearnfinance",
+						"type": "twitter"
+					},
+					{
+						"name": "medium.com",
+						"url": "https://medium.com/iearn",
+						"type": "medium"
+					},
+					{
+						"name": "iearn-finance",
+						"url": "https://github.com/iearn-finance",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 118,
+				"numberOfExchanges": 60,
+				"type": "coin",
+				"volume": 211923708,
+				"marketCap": 419945807,
+				"price": "14013.2774551915",
+				"circulatingSupply": 29967.708042219583,
+				"totalSupply": 30000,
+				"approvedSupply": true,
+				"firstSeen": 1596032160000,
+				"listedAt": 1596032160,
+				"change": -4.38,
+				"rank": 44,
+				"history": [
+					"14655.9309816589",
+					"14638.5267606422",
+					"14620.2831366829",
+					"14623.7098626437",
+					"14644.1035341661",
+					"14833.0475870346",
+					"14884.2960806739",
+					"14768.8361294409",
+					"14823.2736714977",
+					"14805.5619933752",
+					"14811.7707609048",
+					"14987.2930959584",
+					"14995.6089659343",
+					"14803.8862359791",
+					"14800.0844012542",
+					"14742.2742951237",
+					"14831.80392531",
+					"14694.9942506119",
+					"14639.88570731",
+					"14538.6052471276",
+					"14472.5273170705",
+					"14313.3918235794",
+					"14042.9778459961",
+					"13932.6668852505",
+					"14043.8276527213",
+					"14025.8565325382",
+					"14013.2774551915"
+				],
+				"allTimeHigh": {
+					"price": "39853.222184080834",
+					"timestamp": 1599868800000
+				},
+				"penalty": false
+			},
+			{
+				"id": 70838,
+				"uuid": "7Dg6y_Ywg",
+				"slug": "compound-comp",
+				"symbol": "COMP**",
+				"name": "Compound",
+				"description": "<p>Compound (comp) is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications. It’s a DeFi (Decentralized Finance) project, that enables users to earn money on the cryptocurrencies they’re saving. The project is part of Ethereum.</p>\n<h3>The goal of Compound</h3>\n<p>Compound is a system of openly accessible smart contracts built on Ethereum. With Compound, users are able to earn money on the coins they save. People can also borrow crypto from Compound by putting up collateral above a threshold defined by the project. The project focuses on allowing borrowers to take out loans and lenders to provide loans by locking their crypto assets into the protocol. The interest rates paid and received by borrowers and lenders are determined by the supply and demand of each crypto asset. Interest rates are generated with every block mined. Loans can be paid back and locked assets can be withdrawn at any time.</p>\n<h3>Who started Compound</h3>\n<p>Compound was founded in 2017 and is headquartered in San Francisco, California.\nRobert Leshner, a former economist, is the founder and CEO of Compound. He is a web designer and financial analyst and wants to make privacy mainstream.</p>\n",
+				"color": "#00d395",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/2es4I0GGs/compound-icon.svg",
+				"websiteUrl": null,
+				"socials": [],
+				"links": [
+					{
+						"name": "compound.finance",
+						"url": "https://compound.finance/",
+						"type": "website"
+					},
+					{
+						"name": "compoundfinance",
+						"url": "https://twitter.com/compoundfinance",
+						"type": "twitter"
+					},
+					{
+						"name": "compound.finance",
+						"url": "https://compound.finance/discord",
+						"type": "discord"
+					},
+					{
+						"name": "compound-finance",
+						"url": "https://medium.com/compound-finance",
+						"type": "medium"
+					},
+					{
+						"name": "compound-protocol",
+						"url": "https://github.com/compound-finance/compound-protocol",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 45,
+				"numberOfExchanges": 27,
+				"type": "coin",
+				"volume": 19686397,
+				"marketCap": 389858768,
+				"price": "100.7511998353",
+				"circulatingSupply": 3869519.8489081897,
+				"totalSupply": 10000000,
+				"approvedSupply": true,
+				"firstSeen": 1593519840000,
+				"listedAt": 1593519840,
+				"change": -2.3,
+				"rank": 45,
+				"history": [
+					"103.1274056679",
+					"102.5712662233",
+					"102.6831844599",
+					"102.9058107261",
+					"102.7991470197",
+					"103.0449362194",
+					"102.4327959052",
+					"102.6708164019",
+					"103.3121742654",
+					"103.525875889",
+					"103.8550108994",
+					"104.2667831787",
+					"104.5062912473",
+					"104.4131962672",
+					"104.7685683198",
+					"105.4544480484",
+					"105.0519208326",
+					"104.49190959",
+					"103.6858336088",
+					"103.5895675201",
+					"103.2733180966",
+					"102.3652923315",
+					"102.6518227808",
+					"101.7170220683",
+					"101.134500256",
+					"100.8216514611",
+					"100.7511998353"
+				],
+				"allTimeHigh": {
+					"price": "251.87319680112932",
+					"timestamp": 1598918400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 10883,
+				"uuid": "sgxZRXbK0FDc",
+				"slug": "synthetixnetwork-snx",
+				"symbol": "SNX",
+				"name": "Synthetix Network",
+				"description": "Synthetix (SMX) is a DeFi project in the category 'derivatives'. It is a decentralized platform that provides on-chain exposure to different assets.",
+				"color": null,
+				"iconType": "pixel",
+				"iconUrl": "https://cdn.coinranking.com/c2WntZSPs/snx-synthetix.png",
+				"websiteUrl": null,
+				"socials": [],
+				"links": [
+					{
+						"name": "Staking guide",
+						"url": "https://www.stakingrewards.com/asset/synthetix-network-token",
+						"type": "website"
+					},
+					{
+						"name": "synthetix.io",
+						"url": "https://www.synthetix.io/",
+						"type": "website"
+					},
+					{
+						"name": "synthetix_io",
+						"url": "https://twitter.com/synthetix_io",
+						"type": "twitter"
+					},
+					{
+						"name": "r/synthetix_io",
+						"url": "https://reddit.com/r/synthetix_io",
+						"type": "reddit"
+					},
+					{
+						"name": "Discord",
+						"url": "https://discordapp.com/invite/AEdUHzt",
+						"type": "discord"
+					},
+					{
+						"name": "blog.synthetix.io",
+						"url": "https://blog.synthetix.io/",
+						"type": "medium"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 112,
+				"numberOfExchanges": 57,
+				"type": "coin",
+				"volume": 20612908,
+				"marketCap": 380766352,
+				"price": "3.6979958803",
+				"circulatingSupply": 102965596.70909624,
+				"totalSupply": 203851539.53646886,
+				"approvedSupply": true,
+				"firstSeen": 1554322020000,
+				"listedAt": 1554322020,
+				"change": -3.42,
+				"rank": 46,
+				"history": [
+					"3.8288752976",
+					"3.8265125296",
+					"3.8239173209",
+					"3.8842317677",
+					"3.8871489639",
+					"3.8560815933",
+					"3.8565845909",
+					"3.8547972619",
+					"3.8667241985",
+					"3.8634439138",
+					"3.8751275585",
+					"3.8873026941",
+					"3.9011038297",
+					"3.903614127",
+					"3.8967065872",
+					"3.9015804763",
+					"3.8272173467",
+					"3.7940726414",
+					"3.7821910035",
+					"3.7836626955",
+					"3.7723746768",
+					"3.732770705",
+					"3.7214243453",
+					"3.7062649223",
+					"3.7082108569",
+					"3.701749244",
+					"3.6979958803"
+				],
+				"allTimeHigh": {
+					"price": "7.483360240365897",
+					"timestamp": 1598918400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 26,
+				"uuid": "itpeyyriqoiG2",
+				"slug": "ontology-ont",
+				"symbol": "ONT",
+				"name": "Ontology",
+				"description": "<p>Ontology aims to be a peer to peer trust network with a cross-chain, cross-app, cross-industry and cross-device distributed trust system, that has incorporated various trust types in an integrated multi-source protocol system. Ontology is designed to allow companies with no or little knowledge on cryptocurrency to integrate blockchain technology in their business. The Ontology network enables users to adapt public blockchains for different types of apps and get the most out of blockchain technology. The Ontology platform features two coins; the Ontology coin (ONT) and the Ontology Gas token (ONG).The ONT tokens are utility tokens giving access to Ontology's distributed services.</p>\n<h3>The goal of Ontology</h3>\n<p>Ontology was built with the intention to help companies to install their blockchain technology without making big changes to their existing internal systems. The creators wanted to make the process of integrating blockchain technologies easier and make the use of blockchain available and attainable for everyone.</p>\n<h3>Who started Ontology</h3>\n<p>In 2017 Ontology was founded by a Chinese company called OnChain. The founding team includes experts like Erik Zhang, Jun Li and Da HongFei. The company OnChain is also known as the founder of the NEO blockchain.</p>",
+				"color": "#48A3FF",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/cIFTdkAgK/ONT_blue.svg",
+				"websiteUrl": "https://ont.io",
+				"socials": [],
+				"links": [
+					{ "name": "ont.io", "type": "website", "url": "https://ont.io" },
+					{
+						"name": "ontologynetwork",
+						"url": "https://twitter.com/ontologynetwork",
+						"type": "twitter"
+					},
+					{
+						"name": "ontologynetworkcn",
+						"url": "https://t.me/ontologynetworkcn",
+						"type": "telegram"
+					},
+					{
+						"name": "r/ontologynetwork",
+						"url": "https://www.reddit.com/r/ontologynetwork/",
+						"type": "reddit"
+					},
+					{
+						"name": "Discord",
+						"url": "https://discord.gg/4tqujhj",
+						"type": "discord"
+					},
+					{
+						"name": "ontologynetwork",
+						"url": "https://medium.com/ontologynetwork",
+						"type": "medium"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/ontology-network-468098413590227/",
+						"type": "facebook"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 144,
+				"numberOfExchanges": 58,
+				"type": "coin",
+				"volume": 70181000,
+				"marketCap": 359815775,
+				"price": "0.5645487006",
+				"circulatingSupply": 637351170,
+				"totalSupply": 1000000000,
+				"approvedSupply": true,
+				"firstSeen": 1520553600000,
+				"listedAt": 1520553600,
+				"change": 1.95,
+				"rank": 47,
+				"history": [
+					"0.5537292795",
+					"0.5532195318",
+					"0.5518631285",
+					"0.5518971549",
+					"0.5507337552",
+					"0.554155502",
+					"0.553630307",
+					"0.5538494491",
+					"0.5560074631",
+					"0.5565565925",
+					"0.5602001045",
+					"0.5635456334",
+					"0.5686610527",
+					"0.5684757388",
+					"0.5698299253",
+					"0.5694924047",
+					"0.5674312066",
+					"0.5635964888",
+					"0.5617138147",
+					"0.5613220533",
+					"0.5599707381",
+					"0.557974727",
+					"0.5625152004",
+					"0.5621689822",
+					"0.5625699384",
+					"0.5625985555",
+					"0.5645487006"
+				],
+				"allTimeHigh": {
+					"price": "9.978061692854286",
+					"timestamp": 1525392000000
+				},
+				"penalty": false
+			},
+			{
+				"id": 62569,
+				"uuid": "NfeOYfNcl",
+				"slug": "ftxtoken-ftt",
+				"symbol": "FTT**",
+				"name": "FTX Token",
+				"description": null,
+				"color": null,
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/WyBm4_EzM/ftx-exchange.svg",
+				"websiteUrl": null,
+				"socials": [],
+				"links": [
+					{ "name": "ftx.com", "url": "https://ftx.com/", "type": "website" }
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 14,
+				"numberOfExchanges": 7,
+				"type": "coin",
+				"volume": 2100231,
+				"marketCap": 335651604,
+				"price": "3.6179566721",
+				"circulatingSupply": 92773804.30400223,
+				"totalSupply": 343646140.37123,
+				"approvedSupply": true,
+				"firstSeen": 1566222960000,
+				"listedAt": 1566222960,
+				"change": 1,
+				"rank": 48,
+				"history": [
+					"3.5822009783",
+					"3.5708382664",
+					"3.56291642",
+					"3.5646915505",
+					"3.5609960242",
+					"3.5706717568",
+					"3.5710260444",
+					"3.5704744857",
+					"3.5709834075",
+					"3.5725719321",
+					"3.5782755566",
+					"3.5886320918",
+					"3.6027021794",
+					"3.5970073408",
+					"3.6204899063",
+					"3.62326221",
+					"3.6181581349",
+					"3.6099002074",
+					"3.6045087272",
+					"3.6084269096",
+					"3.6130005637",
+					"3.6090798834",
+					"3.6110466557",
+					"3.6091456782",
+					"3.6087105241",
+					"3.61349002",
+					"3.6179566721"
+				],
+				"allTimeHigh": {
+					"price": "4.391187785291395",
+					"timestamp": 1598918400000
+				},
+				"penalty": false
+			},
+			{
+				"id": 274,
+				"uuid": "1ZZI6g5k5royD",
+				"slug": "trueusd-tusd",
+				"symbol": "TUSD",
+				"name": "TrueUSD",
+				"description": null,
+				"color": "#1f2e5a",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/ZjuIqhhNH/tusd.svg",
+				"websiteUrl": "https://www.trusttoken.com/",
+				"socials": [
+					{
+						"name": "Medium",
+						"url": "https://blog.trusttoken.com/",
+						"type": "medium"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/trusttoken/?fref=ts",
+						"type": "facebook"
+					},
+					{
+						"name": "trusttoken",
+						"url": "https://twitter.com/trusttoken",
+						"type": "twitter"
+					},
+					{
+						"name": "Telegram",
+						"url": "https://t.me/joinchat/hihkmktja1giybrm1j1_vg",
+						"type": "telegram"
+					},
+					{
+						"name": "trusttoken",
+						"url": "https://github.com/trusttoken",
+						"type": "github"
+					}
+				],
+				"links": [
+					{
+						"name": "Medium",
+						"url": "https://blog.trusttoken.com/",
+						"type": "medium"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/trusttoken/?fref=ts",
+						"type": "facebook"
+					},
+					{
+						"name": "trusttoken",
+						"url": "https://twitter.com/trusttoken",
+						"type": "twitter"
+					},
+					{
+						"name": "Telegram",
+						"url": "https://t.me/joinchat/hihkmktja1giybrm1j1_vg",
+						"type": "telegram"
+					},
+					{
+						"name": "trusttoken",
+						"url": "https://github.com/trusttoken",
+						"type": "github"
+					},
+					{
+						"name": "www.trusttoken.com",
+						"type": "website",
+						"url": "https://www.trusttoken.com/"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 567,
+				"numberOfExchanges": 99,
+				"type": "coin",
+				"volume": 80585458,
+				"marketCap": 331322542,
+				"price": "1.0010089737",
+				"circulatingSupply": 330988583.72,
+				"totalSupply": 330988583.72,
+				"approvedSupply": true,
+				"firstSeen": 1520380800000,
+				"listedAt": 1520380800,
+				"change": -0.01,
+				"rank": 49,
+				"history": [
+					"1.0011072074",
+					"1.000777826",
+					"1.0012838204",
+					"1.0016861414",
+					"1.0012428339",
+					"1.0019127872",
+					"1.0018716974",
+					"1.0012788347",
+					"1.0011783753",
+					"1.0008641295",
+					"1.0007378425",
+					"1.0008124739",
+					"1.0008964215",
+					"1.0005248372",
+					"1.0007692464",
+					"1.0004969539",
+					"1.0005757987",
+					"1.0003702551",
+					"1.0007859753",
+					"1.0008225021",
+					"1.0007362042",
+					"1.0004530727",
+					"1.0005081906",
+					"1.0004345543",
+					"1.0005636167",
+					"1.0009661963",
+					"1.0010089737"
+				],
+				"allTimeHigh": {
+					"price": "1.0646126324511194",
+					"timestamp": 1526515200000
+				},
+				"penalty": false
+			},
+			{
+				"id": 20,
+				"uuid": "a91GCGd_u96cF",
+				"slug": "dogecoin-doge",
+				"symbol": "DOGE",
+				"name": "Dogecoin",
+				"description": "<p>Dogecoin (DOGE) is the famous Doge internet meme turned into a full-fledged cryptocurrency. It is created to be a joke currency but it grew into something bigger and more serious than intended. Dogecoin is now described as a decentralized, peer-to-peer digital currency that aims to enable users to easily send money online. The dog is their mascot and was popularized as an online meme and represents the coin.</p>\n<h3>The goal of Dogecoin</h3>\n<p>Dogecoin’s goal was to make a funny cryptocurrency that would be free from controversies that normally surrounded all the others. The Dogecoin community has frequently raised funds for charitable causes, from the 2014 Winter Olympics to NASCAR. Dogecoin is a fork of Litecoin.\n<h3>Who started Dogecoin</h3>\n<p>In 2013, Dogecoin was launched by Billy Markus, Jackson Palmer, and “Shibetoshi Nakamoto”; this is not a real person, but refers to Bitcoin’s creator Satoshi Nakamoto and the Shiba Inu breed of dogs, the logo of this cryptocurrency.</p>",
+				"color": "#c2a633",
+				"iconType": "vector",
+				"iconUrl": "https://cdn.coinranking.com/H1arXIuOZ/doge.svg",
+				"websiteUrl": "http://dogecoin.com/",
+				"socials": [
+					{
+						"name": "dogecoin",
+						"url": "https://twitter.com/dogecoin",
+						"type": "twitter"
+					},
+					{
+						"name": "r/dogecoin",
+						"url": "https://www.reddit.com/r/dogecoin/",
+						"type": "reddit"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=361813.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/officialdogecoin/",
+						"type": "facebook"
+					},
+					{
+						"name": "dogecoin/dogecoin",
+						"url": "https://github.com/dogecoin/dogecoin",
+						"type": "github"
+					}
+				],
+				"links": [
+					{
+						"name": "dogecoin.com",
+						"type": "website",
+						"url": "http://dogecoin.com/"
+					},
+					{
+						"name": "dogecoin",
+						"url": "https://twitter.com/dogecoin",
+						"type": "twitter"
+					},
+					{
+						"name": "r/dogecoin",
+						"url": "https://www.reddit.com/r/dogecoin/",
+						"type": "reddit"
+					},
+					{
+						"name": "Bitcoin Talk",
+						"url": "https://bitcointalk.org/index.php?topic=361813.0",
+						"type": "bitcointalk"
+					},
+					{
+						"name": "Facebook",
+						"url": "https://www.facebook.com/officialdogecoin/",
+						"type": "facebook"
+					},
+					{
+						"name": "dogecoin/dogecoin",
+						"url": "https://github.com/dogecoin/dogecoin",
+						"type": "github"
+					}
+				],
+				"confirmedSupply": true,
+				"numberOfMarkets": 2356,
+				"numberOfExchanges": 132,
+				"type": "coin",
+				"volume": 37580314,
+				"marketCap": 329052112,
+				"price": "0.0025962307",
+				"circulatingSupply": 126742245163.89,
+				"totalSupply": 126742245163.89,
+				"approvedSupply": true,
+				"firstSeen": 1391212800000,
+				"listedAt": 1391212800,
+				"change": 0.15,
+				"rank": 50,
+				"history": [
+					"0.0025922416",
+					"0.0025895765",
+					"0.0025838795",
+					"0.0025926605",
+					"0.0025952729",
+					"0.0025981393",
+					"0.0025952083",
+					"0.0025898321",
+					"0.0025916433",
+					"0.0025943598",
+					"0.0025951956",
+					"0.002598368",
+					"0.0026028242",
+					"0.0026032535",
+					"0.002612171",
+					"0.002610915",
+					"0.0026086497",
+					"0.0026040959",
+					"0.0025991414",
+					"0.0025998021",
+					"0.0025996729",
+					"0.0025960608",
+					"0.0026001697",
+					"0.0025970656",
+					"0.0025980332",
+					"0.0025989365",
+					"0.0025962307"
+				],
+				"allTimeHigh": {
+					"price": "0.016338695524703146",
+					"timestamp": 1515369600000
+				},
+				"penalty": false
+			}
+		]
+	}
+}
