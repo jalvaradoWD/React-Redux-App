@@ -2,12 +2,16 @@ import React from "react";
 import { BrowserRouter as Router } from "react-router-dom";
 import CoinList from "./components/CoinList";
 
+import AppStyles from "./styles/app.styles";
+
 const App = () => {
 	return (
 		<>
 			<Router>
-				<h1>Coinranking API</h1>
-				<CoinList />
+				<AppStyles>
+					<h1>Coinranking API</h1>
+					<CoinList />
+				</AppStyles>
 			</Router>
 		</>
 	);
